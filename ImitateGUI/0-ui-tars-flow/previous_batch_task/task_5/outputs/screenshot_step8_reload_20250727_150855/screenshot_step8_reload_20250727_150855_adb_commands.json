@@ -1,0 +1,30 @@
+{
+  "action_type": "click",
+  "parsed_action": {
+    "thought": "",
+    "action": "click",
+    "key": null,
+    "content": null,
+    "start_box": [
+      74,
+      394,
+      119,
+      413
+    ],
+    "end_box": null,
+    "direction": null
+  },
+  "coordinates": {
+    "start_abs": [
+      93,
+      1103,
+      149,
+      1156
+    ],
+    "end_abs": null
+  },
+  "commands": [
+    "adb shell input tap 121 1129"
+  ],
+  "timestamp": "2025-07-27 15:09:18"
+}

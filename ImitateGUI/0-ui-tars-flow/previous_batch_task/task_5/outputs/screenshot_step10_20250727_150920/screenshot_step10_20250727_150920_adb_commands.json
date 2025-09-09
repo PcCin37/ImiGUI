@@ -1,0 +1,18 @@
+{
+  "action_type": "",
+  "parsed_action": {
+    "thought": "",
+    "action": "",
+    "key": null,
+    "content": null,
+    "start_box": null,
+    "end_box": null,
+    "direction": null
+  },
+  "coordinates": {
+    "start_abs": null,
+    "end_abs": null
+  },
+  "commands": [],
+  "timestamp": "2025-07-27 15:10:09"
+}

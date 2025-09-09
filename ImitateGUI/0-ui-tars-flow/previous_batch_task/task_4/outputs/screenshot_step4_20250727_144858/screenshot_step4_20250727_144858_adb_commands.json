@@ -1,0 +1,20 @@
+{
+  "action_type": "type",
+  "parsed_action": {
+    "thought": "",
+    "action": "type",
+    "key": null,
+    "content": "鼠标",
+    "start_box": null,
+    "end_box": null,
+    "direction": null
+  },
+  "coordinates": {
+    "start_abs": null,
+    "end_abs": null
+  },
+  "commands": [
+    "adb shell am broadcast -a ADB_INPUT_TEXT --es msg \"鼠标\""
+  ],
+  "timestamp": "2025-07-27 14:49:47"
+}

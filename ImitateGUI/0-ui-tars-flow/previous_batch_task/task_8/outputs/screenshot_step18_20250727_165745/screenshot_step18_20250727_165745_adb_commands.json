@@ -1,0 +1,30 @@
+{
+  "action_type": "click",
+  "parsed_action": {
+    "thought": "任务是点击“加入购物车”按钮，首先观察界面底部区域，找到绿色背景、文字为“加入购物车”的按钮，直接点击该按钮即可完成操作。",
+    "action": "click",
+    "key": null,
+    "content": null,
+    "start_box": [
+      426,
+      939,
+      631,
+      978
+    ],
+    "end_box": null,
+    "direction": null
+  },
+  "coordinates": {
+    "start_abs": [
+      536,
+      2629,
+      795,
+      2738
+    ],
+    "end_abs": null
+  },
+  "commands": [
+    "adb shell input tap 665 2683"
+  ],
+  "timestamp": "2025-07-27 16:59:16"
+}
