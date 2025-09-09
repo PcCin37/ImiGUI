@@ -1,0 +1,13 @@
+[
+  {
+    "id": "screenshot_step2_20250604_133212",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step2_20250604_133212\\screenshot_step2_20250604_133212_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step2_20250604_133212\\screenshot_step2_20250604_133212_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step2_20250604_133212\\screenshot_step2_20250604_133212_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step2_20250604_133212\\screenshot_step2_20250604_133212_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step2_20250604_133212\\screenshot_step2_20250604_133212_comprehension.txt"
+    },
+    "task": "task: 选择编号为1的商品并点击添加购物车按钮。"
+  }
+]

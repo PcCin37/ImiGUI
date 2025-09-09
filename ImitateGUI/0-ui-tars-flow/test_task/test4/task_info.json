@@ -1,0 +1,12 @@
+{
+  "task_id": "task_20250816_154818",
+  "global_task": "进入团购频道，点击酒店民宿，点击入住时间，选择20号入住，25号离开。注意进入选择日期界面后，第一次点击选择入住日期，第二次点击选择离开日期。查询酒店后点击第一家酒店，滑动查看可预订的房间，查看完成后查看酒店的评价。",
+  "app_name": "unknown_app",
+  "created_at": "2025-08-16T15:48:18.898520",
+  "status": "completed",
+  "completed_at": "2025-08-16T15:59:14.565695",
+  "is_successful": true,
+  "final_evaluation": null,
+  "experience_id": "Experience with source_task_id 'task_20250816_154818' already exists, skipping.",
+  "steps_executed": 9
+}

@@ -1,0 +1,12 @@
+{
+  "task_id": "csv_task_4_20250905_164235",
+  "global_task": "点击抖音登陆-点击搜索icon-输入【西溪湿地】-搜索-点击门店卡片-下滑门店-选择【景区团购】分页-抢购第二个商品-点击购买须知标签-点击底部中央【Home】键回到桌面-点击底部左侧【后台进程】键查看进程-点击x键清除进程",
+  "app_name": "unknown_app",
+  "created_at": "2025-09-05T16:42:35.317243",
+  "status": "completed",
+  "completed_at": "2025-09-05T17:12:40.419859",
+  "is_successful": true,
+  "final_evaluation": "操作历史中已经执行了'点击x键清除进程'的操作，符合任务完成的判断标准。",
+  "experience_id": "Successfully learned experience from task 'csv_task_4_20250905_164235'. Record ID: csv_task_4_20250905_164235",
+  "steps_executed": 12
+}

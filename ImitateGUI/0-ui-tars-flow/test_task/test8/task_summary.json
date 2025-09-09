@@ -1,0 +1,11 @@
+{
+  "task_id": "task_20250819_145722",
+  "global_task": "进入商城频道，点击任意商品卡片，点击界面下方进店入口",
+  "app_name": "unknown_app",
+  "experience_id": "Experience with source_task_id 'task_20250819_145722' already exists, skipping.",
+  "is_successful": true,
+  "final_evaluation": null,
+  "steps_executed": 3,
+  "completed_at": "2025-08-19T15:01:36.890161",
+  "exit_reason": "task_finished"
+}

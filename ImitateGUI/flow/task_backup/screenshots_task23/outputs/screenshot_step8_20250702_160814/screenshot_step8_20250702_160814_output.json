@@ -1,0 +1,13 @@
+[
+  {
+    "id": "screenshot_step8_20250702_160814",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step8_20250702_160814\\screenshot_step8_20250702_160814_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step8_20250702_160814\\screenshot_step8_20250702_160814_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step8_20250702_160814\\screenshot_step8_20250702_160814_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step8_20250702_160814\\screenshot_step8_20250702_160814_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step8_20250702_160814\\screenshot_step8_20250702_160814_comprehension.txt"
+    },
+    "task": "选择一个商品，点击进入购买界面。"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "screenshot_step3_20250603_151115",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step3_20250603_151115\\screenshot_step3_20250603_151115_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step3_20250603_151115\\screenshot_step3_20250603_151115_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step3_20250603_151115\\screenshot_step3_20250603_151115_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step3_20250603_151115\\screenshot_step3_20250603_151115_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step3_20250603_151115\\screenshot_step3_20250603_151115_comprehension.txt"
+    },
+    "task": "task: 点击标签46所对应的“发送”按钮。",
+    "response": {
+      "interaction_object": "component_interaction",
+      "interaction_type": "tap",
+      "interaction_parameter": {
+        "tag": "46",
+        "content": "A symbol or symbol related to symbol or design."
+      },
+      "grounding": [
+        0.878884494304657,
+        0.5372174680233002
+      ]
+    },
+    "adb_command_executed": "adb shell input tap 1089 1489"
+  }
+]

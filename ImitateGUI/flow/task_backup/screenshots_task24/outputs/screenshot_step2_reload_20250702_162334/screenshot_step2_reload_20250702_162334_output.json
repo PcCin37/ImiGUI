@@ -1,0 +1,13 @@
+[
+  {
+    "id": "screenshot_step2_reload_20250702_162334",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step2_reload_20250702_162334\\screenshot_step2_reload_20250702_162334_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step2_reload_20250702_162334\\screenshot_step2_reload_20250702_162334_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step2_reload_20250702_162334\\screenshot_step2_reload_20250702_162334_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step2_reload_20250702_162334\\screenshot_step2_reload_20250702_162334_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step2_reload_20250702_162334\\screenshot_step2_reload_20250702_162334_comprehension.txt"
+    },
+    "task": "选择商品，进入购买页面。"
+  }
+]

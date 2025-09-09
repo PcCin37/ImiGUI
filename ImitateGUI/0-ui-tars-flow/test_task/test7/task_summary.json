@@ -1,0 +1,11 @@
+{
+  "task_id": "task_20250819_144632",
+  "global_task": "进入团购频道，点击超值团，选择19.9元封顶，购买界面中的第三件商品",
+  "app_name": "unknown_app",
+  "experience_id": "Experience with source_task_id 'task_20250819_144632' already exists, skipping.",
+  "is_successful": false,
+  "final_evaluation": null,
+  "steps_executed": 5,
+  "completed_at": "2025-08-19T14:55:28.169858",
+  "exit_reason": "task_finished"
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "screenshot_step2_20250725_141422",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step2_20250725_141422\\screenshot_step2_20250725_141422_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step2_20250725_141422\\screenshot_step2_20250725_141422_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step2_20250725_141422\\screenshot_step2_20250725_141422_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step2_20250725_141422\\screenshot_step2_20250725_141422_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step2_20250725_141422\\screenshot_step2_20250725_141422_comprehension.txt"
+    },
+    "task": "点击文本输入框。",
+    "response": {
+      "interaction_object": "component_interaction",
+      "interaction_type": "tap",
+      "interaction_parameter": {
+        "tag": "37",
+        "content": "a bed or furniture option."
+      },
+      "grounding": [
+        0.1759837418794632,
+        0.9662759900093079
+      ]
+    },
+    "adb_command_executed": "adb shell input tap 221 2705"
+  }
+]

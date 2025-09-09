@@ -1,0 +1,30 @@
+icon 0: {'content': '15:44'}
+icon 1: {'content': 'a notification or alert.'}
+icon 2: {'content': 'A note or note-taking application.'}
+icon 3: {'content': 'Refresh or reload the page.'}
+icon 4: {'content': 'A symbol or logo indicating a user profile or account.'}
+icon 5: {'content': 'Wi-Fi signal orWi-fi connectivity.'}
+icon 6: {'content': 'Close or cancel action.'}
+icon 7: {'content': 'A number or date.'}
+icon 8: {'content': 'Cs2(Z##... 3343 '}
+icon 9: {'content': 'A symbol or symbol related to Chinese currency or a symbol.'}
+icon 10: {'content': 'a thumbs up or like button.'}
+icon 11: {'content': 'N/A'}
+icon 12: {'content': 'A person holding a pen.'}
+icon 13: {'content': '143 '}
+icon 14: {'content': 'a close or delete function.'}
+icon 15: {'content': 'a video file.'}
+icon 16: {'content': 'A green line or connection.'}
+icon 17: {'content': '3'}
+icon 18: {'content': '3aawis110'}
+icon 19: {'content': '$50'}
+icon 20: {'content': '92'}
+icon 21: {'content': 'a star or bookmark function.'}
+icon 22: {'content': '17 '}
+icon 23: {'content': '15 '}
+icon 24: {'content': 'A text alignment tool or application.'}
+icon 25: {'content': 'A power outlet or switch.'}
+icon 26: {'content': 'a loading or buffering indicator.'}
+icon 27: {'content': 'a logo or symbol related to a user interface or application.'}
+icon 28: {'content': 'A bookmark or note.'}
+icon 29: {'content': 'a single button in the dark'}

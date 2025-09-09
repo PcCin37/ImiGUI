@@ -1,0 +1,26 @@
+[
+  {
+    "id": "screenshot_step10_20250604_134712",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step10_20250604_134712\\screenshot_step10_20250604_134712_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step10_20250604_134712\\screenshot_step10_20250604_134712_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step10_20250604_134712\\screenshot_step10_20250604_134712_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step10_20250604_134712\\screenshot_step10_20250604_134712_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step10_20250604_134712\\screenshot_step10_20250604_134712_comprehension.txt"
+    },
+    "task": "task: 选择尺码为36。",
+    "response": {
+      "interaction_object": "component_interaction",
+      "interaction_type": "tap",
+      "interaction_parameter": {
+        "tag": "26",
+        "content": "36 "
+      },
+      "grounding": [
+        0.2559596374630928,
+        0.6116564273834229
+      ]
+    },
+    "adb_command_executed": "adb shell input tap 317 1695"
+  }
+]

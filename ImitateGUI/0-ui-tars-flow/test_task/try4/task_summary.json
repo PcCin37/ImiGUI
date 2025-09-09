@@ -1,0 +1,11 @@
+{
+  "task_id": "task_20250813_181306",
+  "global_task": "点击当前视频评论区，点赞第一条评论",
+  "app_name": null,
+  "experience_id": "Experience with source_task_id 'task_20250813_181306' already exists, skipping.",
+  "is_successful": true,
+  "final_evaluation": null,
+  "steps_executed": 2,
+  "completed_at": "2025-08-13T18:15:58.221394",
+  "exit_reason": "task_finished"
+}

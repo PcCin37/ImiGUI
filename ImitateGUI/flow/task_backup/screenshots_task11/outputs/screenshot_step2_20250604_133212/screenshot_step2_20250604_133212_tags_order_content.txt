@@ -1,0 +1,57 @@
+icon 0: {'content': '13:32'}
+icon 1: {'content': 'a notification or alert.'}
+icon 2: {'content': 'A web browser or application.'}
+icon 3: {'content': 'Refresh or reload.'}
+icon 4: {'content': 'Refresh or reload the page.'}
+icon 5: {'content': 'a profile or icon.'}
+icon 6: {'content': 'Wi-Fi signal orWi-fi connectivity.'}
+icon 7: {'content': 'A close or delete function.'}
+icon 8: {'content': 'A loading or buffering indicator.'}
+icon 9: {'content': 'BIRKENST... BIRKENSTOCK '}
+icon 10: {'content': 'N/A'}
+icon 11: {'content': 'a person wearing glasses.'}
+icon 12: {'content': 'A cat holding a pen.'}
+icon 13: {'content': 'A numbered item or symbol.'}
+icon 14: {'content': 'A close or delete function.'}
+icon 15: {'content': 'A pinning function.'}
+icon 16: {'content': 'A pause button for changing the channel.'}
+icon 17: {'content': 'A close-up or delete function.'}
+icon 18: {'content': '20 '}
+icon 19: {'content': 'a navigation or menu.'}
+icon 20: {'content': 'A message or comment box.'}
+icon 21: {'content': 'A symbol or logo, possibly indicating a link or email.'}
+icon 22: {'content': 'BIRKENSTOCK '}
+icon 23: {'content': 'a pencil to start or edit a document.'}
+icon 24: {'content': 'a note or note-taking function.'}
+icon 25: {'content': 'A symbol or symbol related to Chinese currency.'}
+icon 26: {'content': '... '}
+icon 27: {'content': 'A symbol or symbol related to writing or writing.'}
+icon 28: {'content': 'A symbol or symbol related to writing or writing.'}
+icon 29: {'content': 'A symbol or symbol related to writing or writing.'}
+icon 30: {'content': 'a button to open a new item or document.'}
+icon 31: {'content': 'i#EVA$Arizona...'}
+icon 32: {'content': 'A bookmark for a file.'}
+icon 33: {'content': 'Red writing or marking.'}
+icon 34: {'content': '339'}
+icon 35: {'content': 'a push button or element to add or create a new item.'}
+icon 36: {'content': 'A symbol or symbol related to a new item or function.'}
+icon 37: {'content': 'BIRKENSTOCK'}
+icon 38: {'content': 'a logo or symbol related to something related to programming or programming.'}
+icon 39: {'content': 'A tool or toolbox.'}
+icon 40: {'content': 'A red action or file.'}
+icon 41: {'content': 'A symbol or symbol related to a user interface or platform.'}
+icon 42: {'content': 'A symbol or symbol related to a user interface.'}
+icon 43: {'content': 'A symbol or symbol related to a user interface or platform.'}
+icon 44: {'content': '1099 '}
+icon 45: {'content': 'a push button or symbol.'}
+icon 46: {'content': 'A symbol or symbol related to a function or function.'}
+icon 47: {'content': 'A red symbol or symbol related to a function or function.'}
+icon 48: {'content': 'OENSTOCK '}
+icon 49: {'content': 'A text input or translation function.'}
+icon 50: {'content': 'A symbol or symbol related to walking or walking.'}
+icon 51: {'content': 'adding a new item or creating something new.'}
+icon 52: {'content': '399 '}
+icon 53: {'content': 'a push button or element to add or create a new item.'}
+icon 54: {'content': 'A symbol or symbol related to a new item or service.'}
+icon 55: {'content': 'BI3ENSTOCK '}
+icon 56: {'content': 'A tool or toolbox.'}

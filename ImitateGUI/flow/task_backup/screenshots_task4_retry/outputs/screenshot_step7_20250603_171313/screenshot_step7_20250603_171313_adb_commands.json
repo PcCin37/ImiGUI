@@ -1,0 +1,26 @@
+[
+  {
+    "id": "screenshot_step7_20250603_171313",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step7_20250603_171313\\screenshot_step7_20250603_171313_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step7_20250603_171313\\screenshot_step7_20250603_171313_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step7_20250603_171313\\screenshot_step7_20250603_171313_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step7_20250603_171313\\screenshot_step7_20250603_171313_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step7_20250603_171313\\screenshot_step7_20250603_171313_comprehension.txt"
+    },
+    "task": "**Task:** 点击底部红色按钮“请选择规格”。",
+    "response": {
+      "interaction_object": "component_interaction",
+      "interaction_type": "tap",
+      "interaction_parameter": {
+        "tag": "28",
+        "content": "A red folder or file."
+      },
+      "grounding": [
+        0.49979877658188343,
+        0.9304951131343842
+      ]
+    },
+    "adb_command_executed": "adb shell input tap 619 2579"
+  }
+]

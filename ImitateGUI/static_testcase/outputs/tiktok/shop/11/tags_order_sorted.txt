@@ -1,0 +1,35 @@
+icon 0: {'type': 'icon', 'bbox': [0.09722635895013809, 0.02087017334997654, 0.27222898602485657, 0.048017244786024094], 'interactivity': True, 'content': '15:58 ', 'source': 'box_yolo_content_ocr'}
+icon 1: {'type': 'icon', 'bbox': [0.7058930993080139, 0.02239258773624897, 0.7723097205162048, 0.047073010355234146], 'interactivity': True, 'content': 'a grid or grid view.', 'source': 'box_yolo_content_yolo'}
+icon 2: {'type': 'icon', 'bbox': [0.7778638601303101, 0.023113327100872993, 0.8359472751617432, 0.04772992432117462], 'interactivity': True, 'content': 'a low-to-high profile or avatar.', 'source': 'box_yolo_content_yolo'}
+icon 3: {'type': 'icon', 'bbox': [0.8410935997962952, 0.022553816437721252, 0.9199680685997009, 0.04679161310195923], 'interactivity': True, 'content': 'the back or back function.', 'source': 'box_yolo_content_yolo'}
+icon 4: {'type': 'icon', 'bbox': [0.022951040416955948, 0.08266555517911911, 0.0909169539809227, 0.11127602308988571], 'interactivity': True, 'content': 'a black arrow or "Next" function.', 'source': 'box_yolo_content_yolo'}
+icon 5: {'type': 'text', 'bbox': [0.13655640184879303, 0.082159623503685, 0.32824426889419556, 0.10719874501228333], 'interactivity': True, 'content': 'Q fujifilm', 'source': 'box_ocr_content_ocr'}
+icon 6: {'type': 'icon', 'bbox': [0.7955337166786194, 0.07665250450372696, 0.8704131245613098, 0.1178642138838768], 'interactivity': True, 'content': 'a close or delete function.', 'source': 'box_yolo_content_yolo'}
+icon 7: {'type': 'icon', 'bbox': [0.8838688135147095, 0.07552534341812134, 0.9765509963035583, 0.11966492980718613], 'interactivity': True, 'content': 'a single black circle.', 'source': 'box_yolo_content_yolo'}
+icon 8: {'type': 'text', 'bbox': [0.004240882117301226, 0.13849765062332153, 0.0780322328209877, 0.15610328316688538], 'interactivity': True, 'content': 'IVE', 'source': 'box_ocr_content_ocr'}
+icon 9: {'type': 'text', 'bbox': [0.11789651960134506, 0.13732394576072693, 0.23664122819900513, 0.15610328316688538], 'interactivity': True, 'content': 'Users', 'source': 'box_ocr_content_ocr'}
+icon 10: {'type': 'icon', 'bbox': [0.2430790364742279, 0.12632142007350922, 0.4274676442146301, 0.17228996753692627], 'interactivity': True, 'content': 'Videos ', 'source': 'box_yolo_content_ocr'}
+icon 11: {'type': 'icon', 'bbox': [0.4238567352294922, 0.12703590095043182, 0.5752081871032715, 0.17338570952415466], 'interactivity': True, 'content': 'Shop ', 'source': 'box_yolo_content_ocr'}
+icon 12: {'type': 'text', 'bbox': [0.5962679982185364, 0.13732394576072693, 0.7345207929611206, 0.15610328316688538], 'interactivity': True, 'content': 'Photos', 'source': 'box_ocr_content_ocr'}
+icon 13: {'type': 'text', 'bbox': [0.7743850946426392, 0.13849765062332153, 0.9219677448272705, 0.15610328316688538], 'interactivity': True, 'content': 'Sounds', 'source': 'box_ocr_content_ocr'}
+icon 14: {'type': 'icon', 'bbox': [0.018379703164100647, 0.18226982653141022, 0.2101152539253235, 0.20531192421913147], 'interactivity': True, 'content': 'Best match ', 'source': 'box_yolo_content_ocr'}
+icon 15: {'type': 'icon', 'bbox': [0.23103740811347961, 0.18052849173545837, 0.426390677690506, 0.20770591497421265], 'interactivity': True, 'content': 'Bestsellers ', 'source': 'box_yolo_content_ocr'}
+icon 16: {'type': 'icon', 'bbox': [0.4283926486968994, 0.1807408630847931, 0.5700055360794067, 0.20988702774047852], 'interactivity': True, 'content': 'Price  ', 'source': 'box_yolo_content_ocr'}
+icon 17: {'type': 'icon', 'bbox': [0.8173090219497681, 0.17638111114501953, 0.9890427589416504, 0.2144084870815277], 'interactivity': True, 'content': 'N/A', 'source': 'box_yolo_content_yolo'}
+icon 18: {'type': 'icon', 'bbox': [0.016796095296740532, 0.22087514400482178, 0.28999942541122437, 0.26141443848609924], 'interactivity': True, 'content': 'Categories  ', 'source': 'box_yolo_content_ocr'}
+icon 19: {'type': 'text', 'bbox': [0.4139100909233093, 0.29029732942581177, 0.558948278427124, 0.31572771072387695], 'interactivity': True, 'content': 'Filters', 'source': 'box_ocr_content_ocr'}
+icon 20: {'type': 'icon', 'bbox': [0.8980666399002075, 0.2892628014087677, 0.9556661248207092, 0.32188180088996887], 'interactivity': True, 'content': 'a close or cancel function.', 'source': 'box_yolo_content_yolo'}
+icon 21: {'type': 'text', 'bbox': [0.04240882024168968, 0.35211268067359924, 0.3435114622116089, 0.3740219175815582], 'interactivity': True, 'content': 'Price range (S$)', 'source': 'box_ocr_content_ocr'}
+icon 22: {'type': 'icon', 'bbox': [0.04161197692155838, 0.3938427269458771, 0.2778516411781311, 0.4327884614467621], 'interactivity': True, 'content': 'Under 30 ', 'source': 'box_yolo_content_ocr'}
+icon 23: {'type': 'icon', 'bbox': [0.2921513319015503, 0.39357516169548035, 0.5169413089752197, 0.43294963240623474], 'interactivity': True, 'content': '30 - 200 ', 'source': 'box_yolo_content_ocr'}
+icon 24: {'type': 'icon', 'bbox': [0.5301814079284668, 0.39361488819122314, 0.7767054438591003, 0.4331321120262146], 'interactivity': True, 'content': '200 - 300 ', 'source': 'box_yolo_content_ocr'}
+icon 25: {'type': 'icon', 'bbox': [0.04103614762425423, 0.4423521161079407, 0.2761147618293762, 0.4827265739440918], 'interactivity': True, 'content': 'Over 300 ', 'source': 'box_yolo_content_ocr'}
+icon 26: {'type': 'icon', 'bbox': [0.03613177686929703, 0.490008145570755, 0.4485657513141632, 0.5396655797958374], 'interactivity': True, 'content': 'Min. ', 'source': 'box_yolo_content_ocr'}
+icon 27: {'type': 'icon', 'bbox': [0.5495375394821167, 0.4898965656757355, 0.9589642882347107, 0.5388963222503662], 'interactivity': True, 'content': 'Max. ', 'source': 'box_yolo_content_ocr'}
+icon 28: {'type': 'text', 'bbox': [0.04240882024168968, 0.5665102005004883, 0.25190839171409607, 0.5884193778038025], 'interactivity': True, 'content': 'Categories', 'source': 'box_ocr_content_ocr'}
+icon 29: {'type': 'text', 'bbox': [0.040712468326091766, 0.6115023493766785, 0.4308736324310303, 0.6334115862846375], 'interactivity': True, 'content': 'Cameras & Photography', 'source': 'box_ocr_content_ocr'}
+icon 30: {'type': 'icon', 'bbox': [0.039704520255327225, 0.6462554931640625, 0.15395748615264893, 0.6865237951278687], 'interactivity': True, 'content': 'All ', 'source': 'box_yolo_content_ocr'}
+icon 31: {'type': 'icon', 'bbox': [0.17079997062683105, 0.6462211012840271, 0.48774462938308716, 0.687056839466095], 'interactivity': True, 'content': 'Instant Cameras ', 'source': 'box_yolo_content_ocr'}
+icon 32: {'type': 'icon', 'bbox': [0.5050599575042725, 0.6463399529457092, 0.8854272365570068, 0.6880877017974854], 'interactivity': True, 'content': 'Camera Accessories ', 'source': 'box_yolo_content_ocr'}
+icon 33: {'type': 'icon', 'bbox': [0.03396796062588692, 0.895641565322876, 0.49621447920799255, 0.944596529006958], 'interactivity': True, 'content': 'Reset ', 'source': 'box_yolo_content_ocr'}
+icon 34: {'type': 'icon', 'bbox': [0.5033693313598633, 0.8961511254310608, 0.9658789038658142, 0.9435491561889648], 'interactivity': True, 'content': 'Show results. ', 'source': 'box_yolo_content_ocr'}

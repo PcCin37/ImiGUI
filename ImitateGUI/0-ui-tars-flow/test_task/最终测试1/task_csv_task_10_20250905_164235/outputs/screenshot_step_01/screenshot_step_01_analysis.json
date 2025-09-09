@@ -1,0 +1,259 @@
+{
+  "step_id": 1,
+  "global_task": "点击抖音登陆-点击搜索icon-输入【西溪湿地】-搜索-点击门店卡片-下滑门店-选择【景区团购】分页-抢购第二个商品-点击购买须知标签-点击底部中央【Home】键回到桌面-点击底部左侧【后台进程】键查看进程-点击x键清除进程",
+  "current_subtask": "```\ntask: 点击抖音应用图标\n```",
+  "history_knowledge": {
+    "subtask_id": null,
+    "history_summary": "暂无历史操作记录。"
+  },
+  "step_experiences": {
+    "experiences": [
+      {
+        "task_description": "在抖音应用中搜索并购买黄焖鸡，查看后台进程并清除进程。",
+        "keywords": [
+          "unknown_app",
+          "抖音",
+          "黄焖鸡",
+          "搜索",
+          "团购",
+          "购买须知",
+          "后台进程",
+          "清除进程"
+        ],
+        "action_flow": [
+          {
+            "thought": "点击抖音登录界面的登录按钮，进入主界面。",
+            "action": "click",
+            "target_element_description": "抖音登录界面的登录按钮",
+            "coordinates": null,
+            "text": null
+          },
+          {
+            "thought": "点击搜索图标，打开搜索页面。",
+            "action": "click",
+            "target_element_description": "搜索图标",
+            "coordinates": null,
+            "text": null
+          },
+          {
+            "thought": "点击搜索框以准备输入搜索内容。",
+            "action": "click",
+            "target_element_description": "搜索框",
+            "coordinates": null,
+            "text": null
+          },
+          {
+            "thought": "在搜索框中输入'黄焖鸡'以进行搜索。",
+            "action": "type",
+            "target_element_description": "搜索框",
+            "coordinates": null,
+            "text": null
+          },
+          {
+            "thought": "点击搜索按钮以执行搜索操作。",
+            "action": "click",
+            "target_element_description": "搜索按钮",
+            "coordinates": null,
+            "text": null
+          },
+          {
+            "thought": "点击搜索结果中的门店卡片以查看详细信息。",
+            "action": "click",
+            "target_element_description": "门店卡片",
+            "coordinates": null,
+            "text": null
+          },
+          {
+            "thought": "向下滑动以查看更多团购选项。",
+            "action": "scroll",
+            "target_element_description": "团购选项",
+            "coordinates": null,
+            "text": null
+          },
+          {
+            "thought": "选择超值团购选项以进行购买。",
+            "action": "click",
+            "target_element_description": "超值团购选项",
+            "coordinates": null,
+            "text": null
+          },
+          {
+            "thought": "点击购买须知以查看相关信息。",
+            "action": "click",
+            "target_element_description": "购买须知",
+            "coordinates": null,
+            "text": null
+          },
+          {
+            "thought": "点击底部中央的Home键返回桌面。",
+            "action": "hotkey",
+            "target_element_description": "Home键",
+            "coordinates": null,
+            "text": null
+          },
+          {
+            "thought": "点击底部左侧的后台进程键以查看当前进程。",
+            "action": "click",
+            "target_element_description": "后台进程键",
+            "coordinates": null,
+            "text": null
+          },
+          {
+            "thought": "点击x键清除后台进程。",
+            "action": "click",
+            "target_element_description": "清除进程的x键",
+            "coordinates": null,
+            "text": null
+          }
+        ],
+        "preconditions": "已安装抖音应用，网络可用",
+        "is_successful": true,
+        "usage_count": 1,
+        "last_used_at": "2025-09-05T16:43:08.922067",
+        "source_task_id": "csv_task_3_20250905_161510"
+      },
+      {
+        "task_description": "在抖音应用中完成商品浏览与购买的操作流程",
+        "keywords": [
+          "unknown_app",
+          "抖音",
+          "直播",
+          "商品",
+          "抢购",
+          "sku",
+          "商品讲解",
+          "商城"
+        ],
+        "action_flow": [
+          {
+            "thought": "点击抖音登录界面的登录按钮",
+            "action": "click",
+            "target_element_description": "抖音登录界面的登录按钮",
+            "coordinates": null,
+            "text": null
+          },
+          {
+            "thought": "点击底部的商城标签",
+            "action": "click",
+            "target_element_description": "底部的商城标签",
+            "coordinates": null,
+            "text": null
+          },
+          {
+            "thought": "下滑商城页面以加载更多内容",
+            "action": "scroll",
+            "target_element_description": "商城页面",
+            "coordinates": null,
+            "text": null
+          },
+          {
+            "thought": "点击带有直播中标签的卡片进入直播间",
+            "action": "click",
+            "target_element_description": "带有直播中标签的卡片",
+            "coordinates": null,
+            "text": null
+          },
+          {
+            "thought": "点击下方的小黄车进入商品列表",
+            "action": "click",
+            "target_element_description": "下方的小黄车",
+            "coordinates": null,
+            "text": null
+          },
+          {
+            "thought": "点击商品讲解卡以查看商品详情",
+            "action": "click",
+            "target_element_description": "商品讲解卡",
+            "coordinates": null,
+            "text": null
+          },
+          {
+            "thought": "下滑商品讲解卡详情页以查看更多信息",
+            "action": "scroll",
+            "target_element_description": "商品讲解卡详情页",
+            "coordinates": null,
+            "text": null
+          },
+          {
+            "thought": "点击右下角的去抢购按钮",
+            "action": "click",
+            "target_element_description": "右下角的去抢购按钮",
+            "coordinates": null,
+            "text": null
+          },
+          {
+            "thought": "滑动SKU详情以选择商品种类",
+            "action": "scroll",
+            "target_element_description": "SKU详情",
+            "coordinates": null,
+            "text": null
+          },
+          {
+            "thought": "点击底部中央的Home键返回桌面",
+            "action": "hotkey",
+            "target_element_description": "底部中央的Home键",
+            "coordinates": null,
+            "text": null
+          },
+          {
+            "thought": "点击底部左侧的后台进程键查看进程",
+            "action": "click",
+            "target_element_description": "底部左侧的后台进程键",
+            "coordinates": null,
+            "text": null
+          },
+          {
+            "thought": "点击x键清除后台进程",
+            "action": "click",
+            "target_element_description": "x键",
+            "coordinates": null,
+            "text": null
+          }
+        ],
+        "preconditions": "已安装抖音应用，网络可用",
+        "is_successful": true,
+        "usage_count": 40,
+        "last_used_at": "2025-09-05T16:43:08.922067",
+        "source_task_id": "csv_task_1_20250904_182628"
+      }
+    ],
+    "facts": [],
+    "experience_guidance": "经验1: 在抖音应用中搜索并购买黄焖鸡，查看后台进程并清除进程。 (成功)\n主要步骤:\n  1. click: 抖音登录界面的登录按钮\n  2. click: 搜索图标\n  3. click: 搜索框\n  4. type: 搜索框\n  5. click: 搜索按钮\n前置条件: 已安装抖音应用，网络可用\n\n经验2: 在抖音应用中完成商品浏览与购买的操作流程 (成功)\n主要步骤:\n  1. click: 抖音登录界面的登录按钮\n  2. click: 底部的商城标签\n  3. scroll: 商城页面\n  4. click: 带有直播中标签的卡片\n  5. click: 下方的小黄车\n前置条件: 已安装抖音应用，网络可用\n"
+  },
+  "screenshot_path": "test_task\\device_10ADB50U8A00193\\task_csv_task_4_20250905_164235\\img\\screenshot_step_01.png",
+  "model_response": "click(start_box='<bbox>132 104 217 141</bbox>')",
+  "parsed_action": {
+    "thought": "",
+    "action": "click",
+    "key": null,
+    "content": null,
+    "start_box": [
+      132,
+      104,
+      217,
+      141
+    ],
+    "end_box": null,
+    "direction": null
+  },
+  "absolute_coordinates": {
+    "start_box": [
+      166,
+      291,
+      273,
+      394
+    ],
+    "end_box": null,
+    "direction": null
+  },
+  "device_resolution": {
+    "width": 1260,
+    "height": 2800
+  },
+  "image_size": {
+    "width": 1260,
+    "height": 2800
+  },
+  "annotated_image": "test_task\\device_10ADB50U8A00193\\task_csv_task_4_20250905_164235\\outputs\\screenshot_step_01\\screenshot_step_01_annotated.png",
+  "timestamp": "2025-09-05 16:43:38"
+}

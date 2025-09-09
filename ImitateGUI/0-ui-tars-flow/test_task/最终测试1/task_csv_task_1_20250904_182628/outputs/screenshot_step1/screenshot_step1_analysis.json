@@ -1,0 +1,50 @@
+{
+  "step_id": 1,
+  "global_task": "点击抖音登陆-点击底tab【商城】标签-下滑商城页-点击带有【直播中】标签的卡片进入直播间-点击下方小黄车-点击商品讲解卡-下滑商品讲解卡详情页-点击右下角【去抢购】-滑动sku详情完成选择商品种类-点击底部中央【Home】键回到桌面-点击底部左侧【后台进程】键查看进程-点击x键清除进程",
+  "current_subtask": "```plaintext\ntask: 点击抖音图标。\n```",
+  "history_knowledge": {
+    "subtask_id": null,
+    "history_summary": "暂无历史操作记录。"
+  },
+  "step_experiences": {
+    "experiences": [],
+    "facts": [],
+    "experience_guidance": ""
+  },
+  "screenshot_path": "test_task\\device_10ADB50U8A00193\\task_csv_task_1_20250904_182628\\img\\screenshot_step1.png",
+  "model_response": "click(start_box='<bbox>135 104 214 139</bbox>')",
+  "parsed_action": {
+    "thought": "",
+    "action": "click",
+    "key": null,
+    "content": null,
+    "start_box": [
+      135,
+      104,
+      214,
+      139
+    ],
+    "end_box": null,
+    "direction": null
+  },
+  "absolute_coordinates": {
+    "start_box": [
+      170,
+      291,
+      269,
+      389
+    ],
+    "end_box": null,
+    "direction": null
+  },
+  "device_resolution": {
+    "width": 1260,
+    "height": 2800
+  },
+  "image_size": {
+    "width": 1260,
+    "height": 2800
+  },
+  "annotated_image": "test_task\\device_10ADB50U8A00193\\task_csv_task_1_20250904_182628\\outputs\\screenshot_step1\\screenshot_step1_annotated.png",
+  "timestamp": "2025-09-04 18:27:09"
+}

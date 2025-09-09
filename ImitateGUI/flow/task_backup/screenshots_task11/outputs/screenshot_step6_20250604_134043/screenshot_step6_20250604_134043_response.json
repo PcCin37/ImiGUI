@@ -1,0 +1,25 @@
+[
+    {
+        "id": "screenshot_step6_20250604_134043",
+        "image": {
+            "original_iamge": "screenshots\\outputs\\screenshot_step6_20250604_134043\\screenshot_step6_20250604_134043_original_img.jpg",
+            "som_image": "screenshots\\outputs\\screenshot_step6_20250604_134043\\screenshot_step6_20250604_134043_som_img.jpg",
+            "som_text": "screenshots\\outputs\\screenshot_step6_20250604_134043\\screenshot_step6_20250604_134043_tags_order.txt",
+            "som_tags": "screenshots\\outputs\\screenshot_step6_20250604_134043\\screenshot_step6_20250604_134043_tags_order_content.txt",
+            "comprehension": "screenshots\\outputs\\screenshot_step6_20250604_134043\\screenshot_step6_20250604_134043_comprehension.txt"
+        },
+        "task": "task: 选择尺码为36。",
+        "response": {
+            "interaction_object": "component_interaction",
+            "interaction_type": "tap",
+            "interaction_parameter": {
+                "tag": "25",
+                "content": "36"
+            },
+            "grounding": [
+                0.25479087233543396,
+                0.611502081155777
+            ]
+        }
+    }
+]

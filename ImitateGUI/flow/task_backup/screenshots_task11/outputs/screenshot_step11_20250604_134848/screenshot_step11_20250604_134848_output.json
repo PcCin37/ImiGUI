@@ -1,0 +1,13 @@
+[
+  {
+    "id": "screenshot_step11_20250604_134848",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step11_20250604_134848\\screenshot_step11_20250604_134848_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step11_20250604_134848\\screenshot_step11_20250604_134848_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step11_20250604_134848\\screenshot_step11_20250604_134848_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step11_20250604_134848\\screenshot_step11_20250604_134848_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step11_20250604_134848\\screenshot_step11_20250604_134848_comprehension.txt"
+    },
+    "task": "task: 选择尺码为36。"
+  }
+]

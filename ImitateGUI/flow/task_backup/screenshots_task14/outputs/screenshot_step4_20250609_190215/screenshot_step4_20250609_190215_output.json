@@ -1,0 +1,13 @@
+[
+  {
+    "id": "screenshot_step4_20250609_190215",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step4_20250609_190215\\screenshot_step4_20250609_190215_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step4_20250609_190215\\screenshot_step4_20250609_190215_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step4_20250609_190215\\screenshot_step4_20250609_190215_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step4_20250609_190215\\screenshot_step4_20250609_190215_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step4_20250609_190215\\screenshot_step4_20250609_190215_comprehension.txt"
+    },
+    "task": "task: 滑动屏幕以查看更多评论内容。"
+  }
+]

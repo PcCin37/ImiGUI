@@ -1,0 +1,29 @@
+icon 0: {'content': '14:20'}
+icon 1: {'content': 'a profile or icon.'}
+icon 2: {'content': 'a user profile or avatar.'}
+icon 3: {'content': 'Wi-Fi signal orWi-fi connectivity.'}
+icon 4: {'content': '100'}
+icon 5: {'content': 'a user profile or account.'}
+icon 6: {'content': 'a check mark indicating a task or confirmation.'}
+icon 7: {'content': 'the symbol for a walking or walking platform.'}
+icon 8: {'content': 'A tool for adding a new item or document.'}
+icon 9: {'content': 'a tool for filling areas with a line or a window.'}
+icon 10: {'content': '1199'}
+icon 11: {'content': 'A button to close or cancel a function.'}
+icon 12: {'content': 'A remote control or remote-related function.'}
+icon 13: {'content': 'Red paint or brush tool.'}
+icon 14: {'content': 'A red marker or marker tool.'}
+icon 15: {'content': 'Adding a new item or creating a new message.'}
+icon 16: {'content': 'a loading or buffering indicator.'}
+icon 17: {'content': 'the number 8.'}
+icon 18: {'content': 'a symbol or symbol related to a new item or element.'}
+icon 19: {'content': 'A bookmarking or bookmarking function.'}
+icon 20: {'content': '41 '}
+icon 21: {'content': '42 '}
+icon 22: {'content': '43 '}
+icon 23: {'content': '45 '}
+icon 24: {'content': 'A symbol or symbol related to Japanese characters.'}
+icon 25: {'content': 'a loading or buffering indicator.'}
+icon 26: {'content': 'the number 1.'}
+icon 27: {'content': 'a button to add or create a new item.'}
+icon 28: {'content': 'a red folder or file.'}

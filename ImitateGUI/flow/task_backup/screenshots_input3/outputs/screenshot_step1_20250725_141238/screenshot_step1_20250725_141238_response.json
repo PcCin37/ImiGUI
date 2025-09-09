@@ -1,0 +1,25 @@
+[
+    {
+        "id": "screenshot_step1_20250725_141238",
+        "image": {
+            "original_iamge": "screenshots\\outputs\\screenshot_step1_20250725_141238\\screenshot_step1_20250725_141238_original_img.jpg",
+            "som_image": "screenshots\\outputs\\screenshot_step1_20250725_141238\\screenshot_step1_20250725_141238_som_img.jpg",
+            "som_text": "screenshots\\outputs\\screenshot_step1_20250725_141238\\screenshot_step1_20250725_141238_tags_order.txt",
+            "som_tags": "screenshots\\outputs\\screenshot_step1_20250725_141238\\screenshot_step1_20250725_141238_tags_order_content.txt",
+            "comprehension": "screenshots\\outputs\\screenshot_step1_20250725_141238\\screenshot_step1_20250725_141238_comprehension.txt"
+        },
+        "task": "点击评论图标。",
+        "response": {
+            "interaction_object": "component_interaction",
+            "interaction_type": "tap",
+            "interaction_parameter": {
+                "tag": "21",
+                "content": "a symbol or icon indicating a comment or comment."
+            },
+            "grounding": [
+                0.91793292760849,
+                0.6527456045150757
+            ]
+        }
+    }
+]

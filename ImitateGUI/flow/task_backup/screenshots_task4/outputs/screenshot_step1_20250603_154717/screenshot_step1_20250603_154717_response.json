@@ -1,0 +1,25 @@
+[
+    {
+        "id": "screenshot_step1_20250603_154717",
+        "image": {
+            "original_iamge": "screenshots\\outputs\\screenshot_step1_20250603_154717\\screenshot_step1_20250603_154717_original_img.jpg",
+            "som_image": "screenshots\\outputs\\screenshot_step1_20250603_154717\\screenshot_step1_20250603_154717_som_img.jpg",
+            "som_text": "screenshots\\outputs\\screenshot_step1_20250603_154717\\screenshot_step1_20250603_154717_tags_order.txt",
+            "som_tags": "screenshots\\outputs\\screenshot_step1_20250603_154717\\screenshot_step1_20250603_154717_tags_order_content.txt",
+            "comprehension": "screenshots\\outputs\\screenshot_step1_20250603_154717\\screenshot_step1_20250603_154717_comprehension.txt"
+        },
+        "task": "点击右下角的购物车图标（标签 40）。",
+        "response": {
+            "interaction_object": "component_interaction",
+            "interaction_type": "tap",
+            "interaction_parameter": {
+                "tag": "40",
+                "content": "a logo or logo related to a social media or social media application."
+            },
+            "grounding": [
+                0.6523799896240234,
+                0.9467333555221558
+            ]
+        }
+    }
+]

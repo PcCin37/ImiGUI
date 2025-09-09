@@ -1,0 +1,26 @@
+[
+  {
+    "id": "screenshot_step1_20250620_155205",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step1_20250620_155205\\screenshot_step1_20250620_155205_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step1_20250620_155205\\screenshot_step1_20250620_155205_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step1_20250620_155205\\screenshot_step1_20250620_155205_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step1_20250620_155205\\screenshot_step1_20250620_155205_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step1_20250620_155205\\screenshot_step1_20250620_155205_comprehension.txt"
+    },
+    "task": "task: 点击“商城”菜单项进入商城页面。",
+    "response": {
+      "interaction_object": "component_interaction",
+      "interaction_type": "tap",
+      "interaction_parameter": {
+        "tag": "14",
+        "content": "商城"
+      },
+      "grounding": [
+        0.6667031943798065,
+        0.07956386171281338
+      ]
+    },
+    "adb_command_executed": "adb shell input tap 840 222"
+  }
+]

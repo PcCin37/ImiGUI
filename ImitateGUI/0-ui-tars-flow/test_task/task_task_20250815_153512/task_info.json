@@ -1,0 +1,12 @@
+{
+  "task_id": "task_20250815_153512",
+  "global_task": "点击当前最便宜的商品卡片",
+  "app_name": "unknown_app",
+  "created_at": "2025-08-15T15:35:12.951578",
+  "status": "completed",
+  "completed_at": "2025-08-15T15:37:47.775839",
+  "is_successful": true,
+  "final_evaluation": null,
+  "experience_id": "Experience with source_task_id 'task_20250815_153512' already exists, skipping.",
+  "steps_executed": 1
+}

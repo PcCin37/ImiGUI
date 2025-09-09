@@ -1,0 +1,13 @@
+[
+  {
+    "id": "screenshot_step3_20250603_160438",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step3_20250603_160438\\screenshot_step3_20250603_160438_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step3_20250603_160438\\screenshot_step3_20250603_160438_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step3_20250603_160438\\screenshot_step3_20250603_160438_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step3_20250603_160438\\screenshot_step3_20250603_160438_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step3_20250603_160438\\screenshot_step3_20250603_160438_comprehension.txt"
+    },
+    "task": "**Task**: 点击编号41的按钮\"￥209.00 立即支付\"。"
+  }
+]

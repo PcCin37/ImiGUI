@@ -1,0 +1,25 @@
+[
+    {
+        "id": "screenshot_step9_20250702_161036",
+        "image": {
+            "original_iamge": "screenshots\\outputs\\screenshot_step9_20250702_161036\\screenshot_step9_20250702_161036_original_img.jpg",
+            "som_image": "screenshots\\outputs\\screenshot_step9_20250702_161036\\screenshot_step9_20250702_161036_som_img.jpg",
+            "som_text": "screenshots\\outputs\\screenshot_step9_20250702_161036\\screenshot_step9_20250702_161036_tags_order.txt",
+            "som_tags": "screenshots\\outputs\\screenshot_step9_20250702_161036\\screenshot_step9_20250702_161036_tags_order_content.txt",
+            "comprehension": "screenshots\\outputs\\screenshot_step9_20250702_161036\\screenshot_step9_20250702_161036_comprehension.txt"
+        },
+        "task": "选择一个商品。",
+        "response": {
+            "interaction_object": "component_interaction",
+            "interaction_type": "tap",
+            "interaction_parameter": {
+                "tag": "16",
+                "content": "提问"
+            },
+            "grounding": [
+                0.8662049770355225,
+                0.4207485169172287
+            ]
+        }
+    }
+]

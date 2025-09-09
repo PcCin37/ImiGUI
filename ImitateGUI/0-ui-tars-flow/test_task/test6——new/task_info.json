@@ -1,0 +1,12 @@
+{
+  "task_id": "task_20250819_134550",
+  "global_task": "进入团购频道，搜索麦当劳，搜索后点击直播分页，点击直播头像（不要点击直播间名字）进入直播间，点击小黄车，购买推荐的第一个套餐",
+  "app_name": "unknown_app",
+  "created_at": "2025-08-19T13:45:50.096836",
+  "status": "completed",
+  "completed_at": "2025-08-19T14:02:23.335653",
+  "is_successful": true,
+  "final_evaluation": null,
+  "experience_id": "Experience with source_task_id 'task_20250819_134550' already exists, skipping.",
+  "steps_executed": 9
+}

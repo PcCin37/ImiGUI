@@ -1,0 +1,36 @@
+icon 0: {'content': '18:56 '}
+icon 1: {'content': 'a notification or message.'}
+icon 2: {'content': 'A notification or application.'}
+icon 3: {'content': 'A bookmark or note-taking application.'}
+icon 4: {'content': 'A note or note-taking application.'}
+icon 5: {'content': 'a profile or icon.'}
+icon 6: {'content': 'Wi-Fi signal orWi-fi connectivity.'}
+icon 7: {'content': 'A close or delete function.'}
+icon 8: {'content': 'A number or date.'}
+icon 9: {'content': 'a loading or buffering indicator.'}
+icon 10: {'content': 'A red mark or bookmark.'}
+icon 11: {'content': 'A symbol or symbol related to Chinese characters.'}
+icon 12: {'content': 'the "Next" function.'}
+icon 13: {'content': 'N/A'}
+icon 14: {'content': 'A symbol or symbol related to Japanese or Chinese characters.'}
+icon 15: {'content': 'the "mark" function.'}
+icon 16: {'content': 'the magnifying glass function.'}
+icon 17: {'content': 'a button to add or create a new item.'}
+icon 18: {'content': 'a blurry image or profile.'}
+icon 19: {'content': 'A symbol or symbol indicating a specific function or function.'}
+icon 20: {'content': 'A user profile or account.'}
+icon 21: {'content': 'A file or document.'}
+icon 22: {'content': '@:'}
+icon 23: {'content': 'D '}
+icon 24: {'content': '161.9Fj '}
+icon 25: {'content': 'a switch to a switch.'}
+icon 26: {'content': 'a "moving" or "moving "fast" function.'}
+icon 27: {'content': 'A symbol or symbol related to writing or writing.'}
+icon 28: {'content': 'a split screen or a video file.'}
+icon 29: {'content': 'cpc'}
+icon 30: {'content': 'A cat wearing a suit and tie.'}
+icon 31: {'content': 'the "shopping" button, typically used to indicate a specific location or location.'}
+icon 32: {'content': 'A notification or alert.'}
+icon 33: {'content': 'Adding a new item or element.'}
+icon 34: {'content': '2 '}
+icon 35: {'content': 'a blank screen or window.'}

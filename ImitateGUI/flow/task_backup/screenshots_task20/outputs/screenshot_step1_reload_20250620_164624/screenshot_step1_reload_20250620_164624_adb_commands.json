@@ -1,0 +1,26 @@
+[
+  {
+    "id": "screenshot_step1_reload_20250620_164624",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step1_reload_20250620_164624\\screenshot_step1_reload_20250620_164624_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step1_reload_20250620_164624\\screenshot_step1_reload_20250620_164624_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step1_reload_20250620_164624\\screenshot_step1_reload_20250620_164624_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step1_reload_20250620_164624\\screenshot_step1_reload_20250620_164624_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step1_reload_20250620_164624\\screenshot_step1_reload_20250620_164624_comprehension.txt"
+    },
+    "task": "点击搜索框。",
+    "response": {
+      "interaction_object": "component_interaction",
+      "interaction_type": "tap",
+      "interaction_parameter": {
+        "tag": "14",
+        "content": "A magnifying glass, typically used to search for items or items."
+      },
+      "grounding": [
+        0.9295001327991486,
+        0.07392766512930393
+      ]
+    },
+    "adb_command_executed": "adb shell input tap 1171 206"
+  }
+]

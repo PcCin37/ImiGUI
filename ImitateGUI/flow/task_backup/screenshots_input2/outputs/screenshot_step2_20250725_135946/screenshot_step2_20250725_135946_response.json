@@ -1,0 +1,25 @@
+[
+    {
+        "id": "screenshot_step2_20250725_135946",
+        "image": {
+            "original_iamge": "screenshots\\outputs\\screenshot_step2_20250725_135946\\screenshot_step2_20250725_135946_original_img.jpg",
+            "som_image": "screenshots\\outputs\\screenshot_step2_20250725_135946\\screenshot_step2_20250725_135946_som_img.jpg",
+            "som_text": "screenshots\\outputs\\screenshot_step2_20250725_135946\\screenshot_step2_20250725_135946_tags_order.txt",
+            "som_tags": "screenshots\\outputs\\screenshot_step2_20250725_135946\\screenshot_step2_20250725_135946_tags_order_content.txt",
+            "comprehension": "screenshots\\outputs\\screenshot_step2_20250725_135946\\screenshot_step2_20250725_135946_comprehension.txt"
+        },
+        "task": "点击搜索框。",
+        "response": {
+            "interaction_object": "component_interaction",
+            "interaction_type": "tap",
+            "interaction_parameter": {
+                "tag": "14",
+                "content": "A magnifying glass symbol."
+            },
+            "grounding": [
+                0.9224185943603516,
+                0.07833444699645042
+            ]
+        }
+    }
+]

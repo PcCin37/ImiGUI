@@ -1,0 +1,26 @@
+[
+  {
+    "id": "screenshot_step1_20250609_183348",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step1_20250609_183348\\screenshot_step1_20250609_183348_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step1_20250609_183348\\screenshot_step1_20250609_183348_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step1_20250609_183348\\screenshot_step1_20250609_183348_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step1_20250609_183348\\screenshot_step1_20250609_183348_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step1_20250609_183348\\screenshot_step1_20250609_183348_comprehension.txt"
+    },
+    "task": "task: 点击评论图标进入评论区页面。",
+    "response": {
+      "interaction_object": "component_interaction",
+      "interaction_type": "tap",
+      "interaction_parameter": {
+        "tag": "20",
+        "content": "A chat or messaging application."
+      },
+      "grounding": [
+        0.914587676525116,
+        0.6254405975341797
+      ]
+    },
+    "adb_command_executed": "adb shell input tap 1134 1733"
+  }
+]

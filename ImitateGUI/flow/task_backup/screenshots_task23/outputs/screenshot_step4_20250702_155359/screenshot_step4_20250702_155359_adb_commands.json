@@ -1,0 +1,26 @@
+[
+  {
+    "id": "screenshot_step4_20250702_155359",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step4_20250702_155359\\screenshot_step4_20250702_155359_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step4_20250702_155359\\screenshot_step4_20250702_155359_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step4_20250702_155359\\screenshot_step4_20250702_155359_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step4_20250702_155359\\screenshot_step4_20250702_155359_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step4_20250702_155359\\screenshot_step4_20250702_155359_comprehension.txt"
+    },
+    "task": "输入“肯德基”进行搜索。",
+    "response": {
+      "interaction_object": "component_interaction",
+      "interaction_type": "tap",
+      "interaction_parameter": {
+        "tag": "10",
+        "content": "a text input tool or function."
+      },
+      "grounding": [
+        0.4836871325969696,
+        0.07339105568826199
+      ]
+    },
+    "adb_command_executed": "adb shell input tap 609 205"
+  }
+]

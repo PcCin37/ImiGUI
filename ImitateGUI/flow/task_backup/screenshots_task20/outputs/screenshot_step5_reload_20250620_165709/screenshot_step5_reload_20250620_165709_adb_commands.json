@@ -1,0 +1,26 @@
+[
+  {
+    "id": "screenshot_step5_reload_20250620_165709",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step5_reload_20250620_165709\\screenshot_step5_reload_20250620_165709_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step5_reload_20250620_165709\\screenshot_step5_reload_20250620_165709_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step5_reload_20250620_165709\\screenshot_step5_reload_20250620_165709_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step5_reload_20250620_165709\\screenshot_step5_reload_20250620_165709_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step5_reload_20250620_165709\\screenshot_step5_reload_20250620_165709_comprehension.txt"
+    },
+    "task": "点击筛选工具。",
+    "response": {
+      "interaction_object": "component_interaction",
+      "interaction_type": "tap",
+      "interaction_parameter": {
+        "tag": "20",
+        "content": "a red circle with a line going downward."
+      },
+      "grounding": [
+        0.9436806738376617,
+        0.12581424042582512
+      ]
+    },
+    "adb_command_executed": "adb shell input tap 1189 352"
+  }
+]

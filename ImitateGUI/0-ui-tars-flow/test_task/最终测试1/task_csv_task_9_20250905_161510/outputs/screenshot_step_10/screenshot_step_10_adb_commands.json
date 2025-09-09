@@ -1,0 +1,20 @@
+{
+  "action_type": "hotkey",
+  "parsed_action": {
+    "thought": "",
+    "action": "hotkey",
+    "key": "home",
+    "content": null,
+    "start_box": null,
+    "end_box": null,
+    "direction": null
+  },
+  "coordinates": {
+    "start_abs": null,
+    "end_abs": null
+  },
+  "commands": [
+    "adb -s 10ADB50U8A00193 shell input keyevent KEYCODE_HOME"
+  ],
+  "timestamp": "2025-09-05 16:35:37"
+}

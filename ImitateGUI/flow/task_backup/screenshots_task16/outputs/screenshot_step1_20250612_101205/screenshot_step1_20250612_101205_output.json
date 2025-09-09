@@ -1,0 +1,13 @@
+[
+  {
+    "id": "screenshot_step1_20250612_101205",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step1_20250612_101205\\screenshot_step1_20250612_101205_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step1_20250612_101205\\screenshot_step1_20250612_101205_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step1_20250612_101205\\screenshot_step1_20250612_101205_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step1_20250612_101205\\screenshot_step1_20250612_101205_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step1_20250612_101205\\screenshot_step1_20250612_101205_comprehension.txt"
+    },
+    "task": "task: 滑动顶部导航栏，找到标有“直播”标签的位置。"
+  }
+]

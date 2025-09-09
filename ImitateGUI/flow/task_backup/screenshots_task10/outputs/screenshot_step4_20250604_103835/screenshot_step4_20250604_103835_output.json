@@ -1,0 +1,13 @@
+[
+  {
+    "id": "screenshot_step4_20250604_103835",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step4_20250604_103835\\screenshot_step4_20250604_103835_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step4_20250604_103835\\screenshot_step4_20250604_103835_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step4_20250604_103835\\screenshot_step4_20250604_103835_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step4_20250604_103835\\screenshot_step4_20250604_103835_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step4_20250604_103835\\screenshot_step4_20250604_103835_comprehension.txt"
+    },
+    "task": "task: 选择天蓝色的商品。"
+  }
+]

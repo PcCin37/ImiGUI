@@ -1,0 +1,25 @@
+[
+    {
+        "id": "screenshot_step2_20250604_142024",
+        "image": {
+            "original_iamge": "screenshots\\outputs\\screenshot_step2_20250604_142024\\screenshot_step2_20250604_142024_original_img.jpg",
+            "som_image": "screenshots\\outputs\\screenshot_step2_20250604_142024\\screenshot_step2_20250604_142024_som_img.jpg",
+            "som_text": "screenshots\\outputs\\screenshot_step2_20250604_142024\\screenshot_step2_20250604_142024_tags_order.txt",
+            "som_tags": "screenshots\\outputs\\screenshot_step2_20250604_142024\\screenshot_step2_20250604_142024_tags_order_content.txt",
+            "comprehension": "screenshots\\outputs\\screenshot_step2_20250604_142024\\screenshot_step2_20250604_142024_comprehension.txt"
+        },
+        "task": "task: 选择鞋码 \"42\"。",
+        "response": {
+            "interaction_object": "component_interaction",
+            "interaction_type": "tap",
+            "interaction_parameter": {
+                "tag": "21",
+                "content": "42 "
+            },
+            "grounding": [
+                0.2565695196390152,
+                0.4866017997264862
+            ]
+        }
+    }
+]

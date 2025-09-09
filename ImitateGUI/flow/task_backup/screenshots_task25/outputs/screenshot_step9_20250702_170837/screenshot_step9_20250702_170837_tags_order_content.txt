@@ -1,0 +1,44 @@
+icon 0: {'content': 'a profile or profile.'}
+icon 1: {'content': 'The number 7.8.'}
+icon 2: {'content': 'a checkmark indicating completion or confirmation.'}
+icon 3: {'content': 'Refresh or reload the page.'}
+icon 4: {'content': 'A symbol or symbol, possibly indicating a function or function.'}
+icon 5: {'content': 'the "back" or "right" function.'}
+icon 6: {'content': 'a pointer or pointer.'}
+icon 7: {'content': 'A text or number with the number "K8" in a text editor.'}
+icon 8: {'content': 'a close or delete function.'}
+icon 9: {'content': 'Wi-Fi signal indicator.'}
+icon 10: {'content': 'a profile or icon.'}
+icon 11: {'content': 'a push pin or arrow.'}
+icon 12: {'content': 'A tool or tool for adjusting or changing settings.'}
+icon 13: {'content': 'A symbol or symbol related to Chinese characters.'}
+icon 14: {'content': 'Adding a new item or creating something new.'}
+icon 15: {'content': 'A symbol or symbol related to writing or marking.'}
+icon 16: {'content': '/i/64.90'}
+icon 17: {'content': 'A button to add or create a new item or message.'}
+icon 18: {'content': 'a symbol for adding a new item or element.'}
+icon 19: {'content': 'the symbol for a stop or delete function.'}
+icon 20: {'content': 'A video or file.'}
+icon 21: {'content': 'the "moving" symbol.'}
+icon 22: {'content': 'adding a new item or element.'}
+icon 23: {'content': 'a walking or walking symbol.'}
+icon 24: {'content': 'A tool for filling up a window or screen.'}
+icon 25: {'content': 'a line or bar.'}
+icon 26: {'content': 'a black marker indicating the number 1.'}
+icon 27: {'content': 'Adding a new item or element.'}
+icon 28: {'content': 'adding a new item or element.'}
+icon 29: {'content': 'adding a new item or creating a new document.'}
+icon 30: {'content': 'Refresh or reload the page.'}
+icon 31: {'content': 'A notification or alert.'}
+icon 32: {'content': 'A notification or alert.'}
+icon 33: {'content': 'Refresh or reload.'}
+icon 34: {'content': 'a loading or buffering indicator.'}
+icon 35: {'content': 'a loading or buffering indicator.'}
+icon 36: {'content': 'the Microsoft Edge browser.'}
+icon 37: {'content': 'a loading or buffering indicator.'}
+icon 38: {'content': 'Refresh or reload.'}
+icon 39: {'content': 'a loading or buffering indicator.'}
+icon 40: {'content': '15'}
+icon 41: {'content': '17.03 x 3'}
+icon 42: {'content': 'A symbol or symbol with the number 8.'}
+icon 43: {'content': '164.90 '}

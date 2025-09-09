@@ -1,0 +1,18 @@
+[
+  {
+    "id": "screenshot_step10_20250620_181957",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step10_20250620_181957\\screenshot_step10_20250620_181957_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step10_20250620_181957\\screenshot_step10_20250620_181957_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step10_20250620_181957\\screenshot_step10_20250620_181957_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step10_20250620_181957\\screenshot_step10_20250620_181957_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step10_20250620_181957\\screenshot_step10_20250620_181957_comprehension.txt"
+    },
+    "task": "返回上一界面。",
+    "response": {
+      "interaction_object": "area_interaction",
+      "interaction_type": "app_return"
+    },
+    "adb_command_executed": ""
+  }
+]

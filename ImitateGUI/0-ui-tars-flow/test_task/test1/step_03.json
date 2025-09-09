@@ -1,0 +1,68 @@
+{
+  "step_id": 3,
+  "timestamp": "2025-08-15T13:55:45.293585",
+  "action": "drag",
+  "target_element_description": "unknown",
+  "thought": "",
+  "success": true,
+  "coordinates": null,
+  "absolute_coordinates": {
+    "start_box": [
+      616,
+      2312,
+      616,
+      2312
+    ],
+    "end_box": [
+      623,
+      498,
+      623,
+      498
+    ],
+    "direction": null
+  },
+  "error": null,
+  "task_id": "task_20250815_134001",
+  "app_name": "unknown_app",
+  "screenshot_before": "test_task/task_task_20250815_134001\\img\\screenshot_step3_20250815_135200.png",
+  "adb_commands": {
+    "action_type": "drag",
+    "parsed_action": {
+      "thought": "",
+      "action": "drag",
+      "key": null,
+      "content": null,
+      "start_box": [
+        489,
+        826,
+        489,
+        826
+      ],
+      "end_box": [
+        495,
+        178,
+        495,
+        178
+      ],
+      "direction": null
+    },
+    "coordinates": {
+      "start_abs": [
+        616,
+        2312,
+        616,
+        2312
+      ],
+      "end_abs": [
+        623,
+        498,
+        623,
+        498
+      ]
+    },
+    "commands": [
+      "adb shell input swipe 616 2312 623 498 500"
+    ],
+    "timestamp": "2025-08-15 13:55:44"
+  }
+}

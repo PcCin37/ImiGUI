@@ -1,0 +1,25 @@
+[
+    {
+        "id": "screenshot_step4_20250604_133731",
+        "image": {
+            "original_iamge": "screenshots\\outputs\\screenshot_step4_20250604_133731\\screenshot_step4_20250604_133731_original_img.jpg",
+            "som_image": "screenshots\\outputs\\screenshot_step4_20250604_133731\\screenshot_step4_20250604_133731_som_img.jpg",
+            "som_text": "screenshots\\outputs\\screenshot_step4_20250604_133731\\screenshot_step4_20250604_133731_tags_order.txt",
+            "som_tags": "screenshots\\outputs\\screenshot_step4_20250604_133731\\screenshot_step4_20250604_133731_tags_order_content.txt",
+            "comprehension": "screenshots\\outputs\\screenshot_step4_20250604_133731\\screenshot_step4_20250604_133731_comprehension.txt"
+        },
+        "task": "- **task:** 选择编号为129421的商品。",
+        "response": {
+            "interaction_object": "component_interaction",
+            "interaction_type": "tap",
+            "interaction_parameter": {
+                "tag": "20",
+                "content": "BIRKENSTOCK 129421 "
+            },
+            "grounding": [
+                0.4980216324329376,
+                0.4389572739601135
+            ]
+        }
+    }
+]

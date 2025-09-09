@@ -1,0 +1,21 @@
+[
+  {
+    "id": "screenshot_step1_reload_20250725_134147",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step1_reload_20250725_134147\\screenshot_step1_reload_20250725_134147_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step1_reload_20250725_134147\\screenshot_step1_reload_20250725_134147_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step1_reload_20250725_134147\\screenshot_step1_reload_20250725_134147_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step1_reload_20250725_134147\\screenshot_step1_reload_20250725_134147_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step1_reload_20250725_134147\\screenshot_step1_reload_20250725_134147_comprehension.txt"
+    },
+    "task": "在搜索框中输入“滑雪”。",
+    "response": {
+      "interaction_object": "area_interaction",
+      "interaction_type": "input_text",
+      "interaction_parameter": {
+        "text": "滑雪"
+      }
+    },
+    "adb_command_executed": "adb shell am broadcast -a ADB_INPUT_TEXT --es msg \"滑雪\""
+  }
+]

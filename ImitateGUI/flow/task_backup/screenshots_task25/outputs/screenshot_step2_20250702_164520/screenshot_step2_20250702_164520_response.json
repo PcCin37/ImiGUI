@@ -1,0 +1,25 @@
+[
+    {
+        "id": "screenshot_step2_20250702_164520",
+        "image": {
+            "original_iamge": "screenshots\\outputs\\screenshot_step2_20250702_164520\\screenshot_step2_20250702_164520_original_img.jpg",
+            "som_image": "screenshots\\outputs\\screenshot_step2_20250702_164520\\screenshot_step2_20250702_164520_som_img.jpg",
+            "som_text": "screenshots\\outputs\\screenshot_step2_20250702_164520\\screenshot_step2_20250702_164520_tags_order.txt",
+            "som_tags": "screenshots\\outputs\\screenshot_step2_20250702_164520\\screenshot_step2_20250702_164520_tags_order_content.txt",
+            "comprehension": "screenshots\\outputs\\screenshot_step2_20250702_164520\\screenshot_step2_20250702_164520_comprehension.txt"
+        },
+        "task": "点击“肯德基”进入店铺界面。",
+        "response": {
+            "interaction_object": "component_interaction",
+            "interaction_type": "tap",
+            "interaction_parameter": {
+                "tag": "18",
+                "content": "KFC"
+            },
+            "grounding": [
+                0.08492063917219639,
+                0.17178571224212646
+            ]
+        }
+    }
+]

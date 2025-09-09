@@ -1,0 +1,20 @@
+[
+    {
+        "id": "screenshot_step3_20250725_141650",
+        "image": {
+            "original_iamge": "screenshots\\outputs\\screenshot_step3_20250725_141650\\screenshot_step3_20250725_141650_original_img.jpg",
+            "som_image": "screenshots\\outputs\\screenshot_step3_20250725_141650\\screenshot_step3_20250725_141650_som_img.jpg",
+            "som_text": "screenshots\\outputs\\screenshot_step3_20250725_141650\\screenshot_step3_20250725_141650_tags_order.txt",
+            "som_tags": "screenshots\\outputs\\screenshot_step3_20250725_141650\\screenshot_step3_20250725_141650_tags_order_content.txt",
+            "comprehension": "screenshots\\outputs\\screenshot_step3_20250725_141650\\screenshot_step3_20250725_141650_comprehension.txt"
+        },
+        "task": "输入评论“99”。",
+        "response": {
+            "interaction_object": "area_interaction",
+            "interaction_type": "input_text",
+            "interaction_parameter": {
+                "text": "99"
+            }
+        }
+    }
+]

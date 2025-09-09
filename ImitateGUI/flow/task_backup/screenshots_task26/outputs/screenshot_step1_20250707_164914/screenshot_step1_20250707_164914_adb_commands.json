@@ -1,0 +1,26 @@
+[
+  {
+    "id": "screenshot_step1_20250707_164914",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step1_20250707_164914\\screenshot_step1_20250707_164914_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step1_20250707_164914\\screenshot_step1_20250707_164914_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step1_20250707_164914\\screenshot_step1_20250707_164914_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step1_20250707_164914\\screenshot_step1_20250707_164914_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step1_20250707_164914\\screenshot_step1_20250707_164914_comprehension.txt"
+    },
+    "task": "点击搜索按钮。",
+    "response": {
+      "interaction_object": "component_interaction",
+      "interaction_type": "tap",
+      "interaction_parameter": {
+        "tag": "16",
+        "content": "a magnifying glass or magnifying tool."
+      },
+      "grounding": [
+        0.9261361658573151,
+        0.07509949430823326
+      ]
+    },
+    "adb_command_executed": "adb shell input tap 1166 210"
+  }
+]

@@ -1,0 +1,43 @@
+icon 0: {'content': 'the number fifty.'}
+icon 1: {'content': '15:52    '}
+icon 2: {'content': 'a profile or profile picture.'}
+icon 3: {'content': 'A symbol or number with the letter "K8" in a font size.'}
+icon 4: {'content': 'A close or delete function.'}
+icon 5: {'content': 'a low-light switch or volume indicator.'}
+icon 6: {'content': 'a blank space or profile.'}
+icon 7: {'content': 'unanswerable'}
+icon 8: {'content': 'unanswerable'}
+icon 9: {'content': 'a loading or progress indicator.'}
+icon 10: {'content': 'a loading or buffering indicator.'}
+icon 11: {'content': 'the symbol for walking or walking.'}
+icon 12: {'content': 'a form or grid layout.'}
+icon 13: {'content': 'A symbol or symbol related to Japanese currency.'}
+icon 14: {'content': 'the symbol for marking or marking a specific item.'}
+icon 15: {'content': 'adding a new item or creating something new.'}
+icon 16: {'content': 'the magnifying glass function.'}
+icon 17: {'content': 'unanswerable'}
+icon 18: {'content': 'A symbol or symbol related to programming or programming.'}
+icon 19: {'content': 'a button for creating a new item or element.'}
+icon 20: {'content': 'A symbol or symbol indicating a specific item or item.'}
+icon 21: {'content': 'unanswerable'}
+icon 22: {'content': '1595 '}
+icon 23: {'content': '2674 '}
+icon 24: {'content': '1.9F '}
+icon 25: {'content': 'the letter "X" or "T" function.'}
+icon 26: {'content': 'A symbol or symbol related to walking or walking.'}
+icon 27: {'content': 'the symbol for a line or line.'}
+icon 28: {'content': 'a "like" or "like".'}
+icon 29: {'content': 'a person in a suit and tie.'}
+icon 30: {'content': 'the hashtag or social media platform.'}
+icon 31: {'content': 'a blank space or profile.'}
+icon 32: {'content': 'a blank space or profile.'}
+icon 33: {'content': 'a blank space or profile.'}
+icon 34: {'content': 'a blank space or profile.'}
+icon 35: {'content': 'the search function.'}
+icon 36: {'content': 'a push pin or pinning function.'}
+icon 37: {'content': 'a dark view or horizon.'}
+icon 38: {'content': 'the "shopping" button, typically used to indicate a user\'}
+icon 39: {'content': 'Adding a new item or element.'}
+icon 40: {'content': 'Adding a new item or creating a new tab.'}
+icon 41: {'content': 'a document or file.'}
+icon 42: {'content': 'Adding a new item or element.'}

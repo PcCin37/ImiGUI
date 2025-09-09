@@ -1,0 +1,47 @@
+icon 0: {'content': '16:07  '}
+icon 1: {'content': 'a grid or grid view.'}
+icon 2: {'content': 'Wi-Fi signal.'}
+icon 3: {'content': 'A lightning or power symbol.'}
+icon 4: {'content': 'A bookmark or bookmarking.'}
+icon 5: {'content': 'A bookmark or bookmark function.'}
+icon 6: {'content': 'a close or delete function.'}
+icon 7: {'content': 'D:92817'}
+icon 8: {'content': 'a back or delete function.'}
+icon 9: {'content': 'A notification or alert.'}
+icon 10: {'content': 'a file or document.'}
+icon 11: {'content': 'A file or file management tool.'}
+icon 12: {'content': 'A shortcut or file.'}
+icon 13: {'content': '85-110F '}
+icon 14: {'content': 'A chat or messaging application.'}
+icon 15: {'content': '75-90F '}
+icon 16: {'content': '110-120F $M69 '}
+icon 17: {'content': 'A numbered item or page.'}
+icon 18: {'content': ' 90-100F '}
+icon 19: {'content': '120-130F $L69 '}
+icon 20: {'content': '88VIP'}
+icon 21: {'content': '100-110F '}
+icon 22: {'content': '130-140F $XL9 '}
+icon 23: {'content': 'A file or document.'}
+icon 24: {'content': '110-120F $XL69 '}
+icon 25: {'content': '140-160F '}
+icon 26: {'content': '120-130F $XXL69 '}
+icon 27: {'content': '160-180F '}
+icon 28: {'content': 'CAMEL'}
+icon 29: {'content': '#x320'}
+icon 30: {'content': '232'}
+icon 31: {'content': 'a close or delete function.'}
+icon 32: {'content': 'A symbol or identifier, possibly indicating a specific number or location.'}
+icon 33: {'content': 'a line or arrow.'}
+icon 34: {'content': '88W***:'}
+icon 35: {'content': '0149'}
+icon 36: {'content': 'A symbol or symbol related to power or electricity.'}
+icon 37: {'content': 'A text alignment tool.'}
+icon 38: {'content': 'A symbol or logo indicating a specific function or function.'}
+icon 39: {'content': 'A number or symbol, possibly indicating the number 8.'}
+icon 40: {'content': 'a button to change or cancel a function.'}
+icon 41: {'content': 'A symbol or symbol related to social media or social media.'}
+icon 42: {'content': '149 '}
+icon 43: {'content': 'a blank space or profile.'}
+icon 44: {'content': 'a bookmark or bookmark function.'}
+icon 45: {'content': 'A notification indicating the number 6.'}
+icon 46: {'content': '347 '}

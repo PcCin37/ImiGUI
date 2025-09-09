@@ -1,0 +1,42 @@
+icon 0: {'content': '19:02'}
+icon 1: {'content': 'a video call or messaging application.'}
+icon 2: {'content': 'A web browser or application.'}
+icon 3: {'content': 'Refresh or reload the page.'}
+icon 4: {'content': 'A note or note-taking application.'}
+icon 5: {'content': 'a profile or icon.'}
+icon 6: {'content': 'Wi-Fi signal orWi-fi connectivity.'}
+icon 7: {'content': 'A close or delete function.'}
+icon 8: {'content': 'A loading or buffering indicator.'}
+icon 9: {'content': 'A magnifying glass or magnifying tool.'}
+icon 10: {'content': 'a walking or walking tool.'}
+icon 11: {'content': 'Adding a new item or element.'}
+icon 12: {'content': 'A symbol or symbol related to a function or function.'}
+icon 13: {'content': 'A button to close or cancel a user profile or account.'}
+icon 14: {'content': 'adding a new item or creating something new.'}
+icon 15: {'content': 'a thumbs up or like button.'}
+icon 16: {'content': 'a writing tool or tool for writing.'}
+icon 17: {'content': 'a user profile or avatar.'}
+icon 18: {'content': 'a user profile or avatar.'}
+icon 19: {'content': 'a symbol or symbol related to a user interface or account.'}
+icon 20: {'content': 'a symbol or symbol related to a heart.'}
+icon 21: {'content': 'a user profile or avatar.'}
+icon 22: {'content': 'a text alignment tool.'}
+icon 23: {'content': '05-31'}
+icon 24: {'content': 'a symbol or symbol related to a user interface or account.'}
+icon 25: {'content': 'a symbol or symbol related to health or health.'}
+icon 26: {'content': 'A sunflower or sunflower, typically used for a sunflower application.'}
+icon 27: {'content': 'the symbol for marking or marking a document.'}
+icon 28: {'content': 'O 853 '}
+icon 29: {'content': 'a symbol or symbol related to a user interface or account.'}
+icon 30: {'content': 'a user profile or account.'}
+icon 31: {'content': 'Bababobo > ttttt'}
+icon 32: {'content': 'the "adding" function.'}
+icon 33: {'content': 'A tool or function related to programming or programming.'}
+icon 34: {'content': 'a text alignment tool.'}
+icon 35: {'content': 'the symbol for adding a new item or element.'}
+icon 36: {'content': 'a line or symbol.'}
+icon 37: {'content': 'a blank space or screen.'}
+icon 38: {'content': 'a line or line icon.'}
+icon 39: {'content': '@ '}
+icon 40: {'content': 'a user profile or account.'}
+icon 41: {'content': 'a blank space or screen.'}

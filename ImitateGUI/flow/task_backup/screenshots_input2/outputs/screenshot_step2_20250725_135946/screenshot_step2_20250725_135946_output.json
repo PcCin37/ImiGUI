@@ -1,0 +1,13 @@
+[
+  {
+    "id": "screenshot_step2_20250725_135946",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step2_20250725_135946\\screenshot_step2_20250725_135946_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step2_20250725_135946\\screenshot_step2_20250725_135946_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step2_20250725_135946\\screenshot_step2_20250725_135946_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step2_20250725_135946\\screenshot_step2_20250725_135946_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step2_20250725_135946\\screenshot_step2_20250725_135946_comprehension.txt"
+    },
+    "task": "点击搜索框。"
+  }
+]

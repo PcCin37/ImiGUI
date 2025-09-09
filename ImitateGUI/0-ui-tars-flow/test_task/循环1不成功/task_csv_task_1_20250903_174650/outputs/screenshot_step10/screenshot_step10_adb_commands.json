@@ -1,0 +1,18 @@
+{
+  "action_type": "",
+  "parsed_action": {
+    "thought": "点击屏幕底部中央的【Home】键（图标为房子形状，位于底部导航栏中间位置），以回到桌面。",
+    "action": "",
+    "key": null,
+    "content": null,
+    "start_box": null,
+    "end_box": null,
+    "direction": null
+  },
+  "coordinates": {
+    "start_abs": null,
+    "end_abs": null
+  },
+  "commands": [],
+  "timestamp": "2025-09-03 18:01:41"
+}

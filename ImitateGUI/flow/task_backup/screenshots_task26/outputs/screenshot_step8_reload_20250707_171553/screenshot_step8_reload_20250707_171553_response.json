@@ -1,0 +1,25 @@
+[
+    {
+        "id": "screenshot_step8_reload_20250707_171553",
+        "image": {
+            "original_iamge": "screenshots\\outputs\\screenshot_step8_reload_20250707_171553\\screenshot_step8_reload_20250707_171553_original_img.jpg",
+            "som_image": "screenshots\\outputs\\screenshot_step8_reload_20250707_171553\\screenshot_step8_reload_20250707_171553_som_img.jpg",
+            "som_text": "screenshots\\outputs\\screenshot_step8_reload_20250707_171553\\screenshot_step8_reload_20250707_171553_tags_order.txt",
+            "som_tags": "screenshots\\outputs\\screenshot_step8_reload_20250707_171553\\screenshot_step8_reload_20250707_171553_tags_order_content.txt",
+            "comprehension": "screenshots\\outputs\\screenshot_step8_reload_20250707_171553\\screenshot_step8_reload_20250707_171553_comprehension.txt"
+        },
+        "task": "点击放大镜图标。",
+        "response": {
+            "interaction_object": "component_interaction",
+            "interaction_type": "tap",
+            "interaction_parameter": {
+                "tag": "12",
+                "content": "A magnifying glass, typically used to search or magnify."
+            },
+            "grounding": [
+                0.8377168774604797,
+                0.07484946213662624
+            ]
+        }
+    }
+]

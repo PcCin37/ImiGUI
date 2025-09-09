@@ -1,0 +1,25 @@
+[
+    {
+        "id": "screenshot_step2_20250702_161734",
+        "image": {
+            "original_iamge": "screenshots\\outputs\\screenshot_step2_20250702_161734\\screenshot_step2_20250702_161734_original_img.jpg",
+            "som_image": "screenshots\\outputs\\screenshot_step2_20250702_161734\\screenshot_step2_20250702_161734_som_img.jpg",
+            "som_text": "screenshots\\outputs\\screenshot_step2_20250702_161734\\screenshot_step2_20250702_161734_tags_order.txt",
+            "som_tags": "screenshots\\outputs\\screenshot_step2_20250702_161734\\screenshot_step2_20250702_161734_tags_order_content.txt",
+            "comprehension": "screenshots\\outputs\\screenshot_step2_20250702_161734\\screenshot_step2_20250702_161734_comprehension.txt"
+        },
+        "task": "点击“KFC”进入店铺。",
+        "response": {
+            "interaction_object": "component_interaction",
+            "interaction_type": "tap",
+            "interaction_parameter": {
+                "tag": "22",
+                "content": "KFC"
+            },
+            "grounding": [
+                0.2554180845618248,
+                0.33573998510837555
+            ]
+        }
+    }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "id": "screenshot_step4_20250620_165050",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step4_20250620_165050\\screenshot_step4_20250620_165050_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step4_20250620_165050\\screenshot_step4_20250620_165050_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step4_20250620_165050\\screenshot_step4_20250620_165050_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step4_20250620_165050\\screenshot_step4_20250620_165050_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step4_20250620_165050\\screenshot_step4_20250620_165050_comprehension.txt"
+    },
+    "task": "输入关键词“电竞椅”。"
+  }
+]

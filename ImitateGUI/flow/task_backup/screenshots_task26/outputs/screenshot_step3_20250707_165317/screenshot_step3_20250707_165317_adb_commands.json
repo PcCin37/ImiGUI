@@ -1,0 +1,26 @@
+[
+  {
+    "id": "screenshot_step3_20250707_165317",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step3_20250707_165317\\screenshot_step3_20250707_165317_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step3_20250707_165317\\screenshot_step3_20250707_165317_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step3_20250707_165317\\screenshot_step3_20250707_165317_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step3_20250707_165317\\screenshot_step3_20250707_165317_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step3_20250707_165317\\screenshot_step3_20250707_165317_comprehension.txt"
+    },
+    "task": "",
+    "response": {
+      "interaction_object": "component_interaction",
+      "interaction_type": "tap",
+      "interaction_parameter": {
+        "tag": "12",
+        "content": "Red symbol for adding or creating something new."
+      },
+      "grounding": [
+        0.9073560535907745,
+        0.07556136138737202
+      ]
+    },
+    "adb_command_executed": "adb shell input tap 1143 211"
+  }
+]

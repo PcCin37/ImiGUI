@@ -1,0 +1,42 @@
+icon 0: {'content': '16:02'}
+icon 1: {'content': 'a notification or alert.'}
+icon 2: {'content': 'A note or note-taking application.'}
+icon 3: {'content': 'Refresh or reload.'}
+icon 4: {'content': 'A symbol or symbol related to a user profile or account.'}
+icon 5: {'content': 'Wi-Fi signal orWi-fi connectivity.'}
+icon 6: {'content': 'Close or delete function.'}
+icon 7: {'content': 'A number or date.'}
+icon 8: {'content': 'A checkmark indicating a task or confirmation.'}
+icon 9: {'content': 'A tool for removing a file.'}
+icon 10: {'content': 'a social media platform or platform.'}
+icon 11: {'content': '209'}
+icon 12: {'content': 'a close or delete function.'}
+icon 13: {'content': 'a blank space or screen.'}
+icon 14: {'content': 'A red marker or marker.'}
+icon 15: {'content': 'CHINGVERY *f24-1-5029Rt'}
+icon 16: {'content': 'a logo or symbol indicating a user profile or account.'}
+icon 17: {'content': 'a push pin or pinning function.'}
+icon 18: {'content': 'the "Refresh" function.'}
+icon 19: {'content': 'the "Refresh" button.'}
+icon 20: {'content': '120g*1#E '}
+icon 21: {'content': 'A symbol or symbol related to Japanese writing.'}
+icon 22: {'content': 'A symbol or symbol related to a user interface or platform.'}
+icon 23: {'content': 'a blank space or screen.'}
+icon 24: {'content': '1 '}
+icon 25: {'content': 'a button to add or create a new item.'}
+icon 26: {'content': 'the symbol for adding a new item or element.'}
+icon 27: {'content': 'the symbol for a home or main menu.'}
+icon 28: {'content': 'Refresh or reload.'}
+icon 29: {'content': 'A notification or alert.'}
+icon 30: {'content': 'the "Adding" or "Adding a new item" function.'}
+icon 31: {'content': 'the letter "R" or "T" in a black rectangle.'}
+icon 32: {'content': 'the symbol for "Refresh" or "Reflect" function.'}
+icon 33: {'content': 'Red paint or paintbrush tool.'}
+icon 34: {'content': 'a loading or buffering indicator.'}
+icon 35: {'content': 'Adding a new item or element.'}
+icon 36: {'content': 'a line or bar.'}
+icon 37: {'content': 'a line or vertical line.'}
+icon 38: {'content': 'Adding a new item or element.'}
+icon 39: {'content': 'a line or line.'}
+icon 40: {'content': '\\ 204.00 '}
+icon 41: {'content': '?209.00 '}

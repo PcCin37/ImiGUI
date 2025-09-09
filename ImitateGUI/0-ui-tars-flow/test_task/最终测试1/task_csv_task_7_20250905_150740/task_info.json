@@ -1,0 +1,12 @@
+{
+  "task_id": "csv_task_1_20250905_150740",
+  "global_task": "点击抖音登陆-点击搜索icon-输入【汉庭】-搜索-点击直播分页-点击直播大屏进入直播间-点击小黄车唤起橱窗列表-下滑橱窗列表-点击购买按钮-点击底部中央【Home】键回到桌面-点击底部左侧【后台进程】键查看进程-点击x键清除进程",
+  "app_name": "unknown_app",
+  "created_at": "2025-09-05T15:07:40.406382",
+  "status": "completed",
+  "completed_at": "2025-09-05T15:41:47.118524",
+  "is_successful": true,
+  "final_evaluation": "自动完成的任务",
+  "experience_id": "Successfully learned experience from task 'csv_task_1_20250905_150740'. Record ID: csv_task_1_20250905_150740",
+  "steps_executed": 12
+}

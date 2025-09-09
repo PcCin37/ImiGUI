@@ -1,0 +1,62 @@
+icon 0: {'content': 'A numerical number or symbol.'}
+icon 1: {'content': 'a checkmark indicating completion or confirmation.'}
+icon 2: {'content': 'Refresh or reload the page.'}
+icon 3: {'content': 'Refresh or reload the page.'}
+icon 4: {'content': 'the "back" or "right" function.'}
+icon 5: {'content': 'a navigation or location pin.'}
+icon 6: {'content': 'a thumbs up or pointer.'}
+icon 7: {'content': 'A numerical value or score.'}
+icon 8: {'content': 'a close or delete function.'}
+icon 9: {'content': 'Wi-Fi signal or internet connectivity.'}
+icon 10: {'content': 'a profile or icon.'}
+icon 11: {'content': 'a blank space or screen.'}
+icon 12: {'content': 'a push pin or arrow.'}
+icon 13: {'content': 'a loading or buffering indicator.'}
+icon 14: {'content': 'A symbol or symbol related to a function or function.'}
+icon 15: {'content': 'Red symbol for adding or creating something new.'}
+icon 16: {'content': 'a blank space or screen.'}
+icon 17: {'content': 'the trash bin or delete function.'}
+icon 18: {'content': 'KFC'}
+icon 19: {'content': 'adding or creating a new item.'}
+icon 20: {'content': 'Adding a new item or element.'}
+icon 21: {'content': 'Refresh or reload.'}
+icon 22: {'content': 'the symbol for adding a new item or element.'}
+icon 23: {'content': 'the symbol for "adding" or "adding".'}
+icon 24: {'content': 'a button for selecting a button'}
+icon 25: {'content': 'A tool or tool related to a user interface.'}
+icon 26: {'content': 'Red paint or paintbrush tool.'}
+icon 27: {'content': 'the "slide" or "slides" function.'}
+icon 28: {'content': 'the symbol for adding a new item or element.'}
+icon 29: {'content': 'Adding a new item or element.'}
+icon 30: {'content': 'the "Refresh" button.'}
+icon 31: {'content': 'the "back" symbol, typically used to indicate a "back".'}
+icon 32: {'content': 'A symbol or logo.'}
+icon 33: {'content': 'A symbol or symbol related to writing or writing.'}
+icon 34: {'content': 'the letter "H" or "H".'}
+icon 35: {'content': 'Adding a new item or element.'}
+icon 36: {'content': 'kfc'}
+icon 37: {'content': 'Adding a new item or element.'}
+icon 38: {'content': 'Refresh or reload the page.'}
+icon 39: {'content': 'a close or cancel function.'}
+icon 40: {'content': 'A symbol or symbol related to Chinese characters.'}
+icon 41: {'content': 'a tool or tool for changing or changing characters.'}
+icon 42: {'content': 'adding a new item or creating something new.'}
+icon 43: {'content': 'a loading or buffering indicator.'}
+icon 44: {'content': 'A symbol or symbol related to writing.'}
+icon 45: {'content': 'a text input function.'}
+icon 46: {'content': 'A symbol or icon related to a medical or medical service.'}
+icon 47: {'content': '1155.67'}
+icon 48: {'content': 'A symbol or logo related to a social media or platform.'}
+icon 49: {'content': '1116.9F'}
+icon 50: {'content': '1108.9Fj '}
+icon 51: {'content': 'the number 4.'}
+icon 52: {'content': 'a symbol or symbol related to walking or moving.'}
+icon 53: {'content': 'A rectangle or rectangle.'}
+icon 54: {'content': 'the "Refresh" function.'}
+icon 55: {'content': 'the number 11.'}
+icon 56: {'content': '1105.2'}
+icon 57: {'content': '5 '}
+icon 58: {'content': 'a loading or buffering indicator.'}
+icon 59: {'content': 'a push pin or random tool.'}
+icon 60: {'content': '1024.07'}
+icon 61: {'content': 'ADB Keyboard{ON}'}

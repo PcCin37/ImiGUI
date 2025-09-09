@@ -1,0 +1,23 @@
+[
+    {
+        "id": "screenshot_step1_20250530_164620",
+        "image": {
+            "original_iamge": "screenshots\\outputs\\screenshot_step1_20250530_164620\\screenshot_step1_20250530_164620_original_img.jpg",
+            "som_image": "screenshots\\outputs\\screenshot_step1_20250530_164620\\screenshot_step1_20250530_164620_som_img.jpg",
+            "som_text": "screenshots\\outputs\\screenshot_step1_20250530_164620\\screenshot_step1_20250530_164620_tags_order.txt",
+            "som_tags": "screenshots\\outputs\\screenshot_step1_20250530_164620\\screenshot_step1_20250530_164620_tags_order_content.txt",
+            "comprehension": "screenshots\\outputs\\screenshot_step1_20250530_164620\\screenshot_step1_20250530_164620_comprehension.txt"
+        },
+        "task": "点击标签37的位置。",
+        "response": {
+            "interaction_object": "component_interaction",
+            "interaction_type": "tap",
+            "interaction_parameter": {
+                "grounding": [
+                    0.12,
+                    0.74
+                ]
+            }
+        }
+    }
+]

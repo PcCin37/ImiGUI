@@ -1,0 +1,48 @@
+icon 0: {'content': 'A numerical number or symbol.'}
+icon 1: {'content': '17:58  Q  '}
+icon 2: {'content': 'a profile or profile icon.'}
+icon 3: {'content': 'a close or delete function.'}
+icon 4: {'content': 'Wi-Fi signal indicator.'}
+icon 5: {'content': 'a profile or icon.'}
+icon 6: {'content': '2'}
+icon 7: {'content': 'a black marker or pen.'}
+icon 8: {'content': 'Adding a new item or creating a new message.'}
+icon 9: {'content': 'the symbol for "back" or "t" function.'}
+icon 10: {'content': 'a loading or buffering indicator.'}
+icon 11: {'content': 'A symbol or symbol related to Chinese characters.'}
+icon 12: {'content': 'A symbol or symbol related to Chinese characters.'}
+icon 13: {'content': 'Refresh or reload.'}
+icon 14: {'content': 'a magnifying glass or magnifying tool.'}
+icon 15: {'content': 'a blank screen or page.'}
+icon 16: {'content': 'Red marking a comment section.'}
+icon 17: {'content': 'a thumbs up or thumbs up symbol.'}
+icon 18: {'content': 'a stop or cancel function.'}
+icon 19: {'content': '30 '}
+icon 20: {'content': 'A link or comment section.'}
+icon 21: {'content': '2 '}
+icon 22: {'content': 'Redo mark in a user interface.'}
+icon 23: {'content': 'a trash or delete function.'}
+icon 24: {'content': 'a symbol or logo indicating a timer or stopwatch function.'}
+icon 25: {'content': 'A bookmark or bookmark function.'}
+icon 26: {'content': '25 '}
+icon 27: {'content': 'A thumbs up or thumbs up.'}
+icon 28: {'content': 'a bookmark or pinning function.'}
+icon 29: {'content': '9.96'}
+icon 30: {'content': '4.96 '}
+icon 31: {'content': 'A symbol or symbol related to a platform or platform related to programming or programming.'}
+icon 32: {'content': 'A symbol or symbol related to a walking or walking function.'}
+icon 33: {'content': 'a chat or messaging application.'}
+icon 34: {'content': 'a person with a pen.'}
+icon 35: {'content': '354 '}
+icon 36: {'content': '?2115.65 '}
+icon 37: {'content': '1.2#E2208# '}
+icon 38: {'content': 'J70i70'}
+icon 39: {'content': 'A tool or toolbox.'}
+icon 40: {'content': 'Red "Red" or "Shuffle" function.'}
+icon 41: {'content': 'A red paint bucket tool.'}
+icon 42: {'content': '15'}
+icon 43: {'content': 'a line or scroll function.'}
+icon 44: {'content': 'a walking symbol.'}
+icon 45: {'content': 'A black rectangle or link.'}
+icon 46: {'content': 'A checkbox or menu.'}
+icon 47: {'content': 'a blank space or screen.'}

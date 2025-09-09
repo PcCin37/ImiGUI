@@ -1,0 +1,26 @@
+[
+  {
+    "id": "screenshot_step2_20250619_181311",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step2_20250619_181311\\screenshot_step2_20250619_181311_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step2_20250619_181311\\screenshot_step2_20250619_181311_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step2_20250619_181311\\screenshot_step2_20250619_181311_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step2_20250619_181311\\screenshot_step2_20250619_181311_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step2_20250619_181311\\screenshot_step2_20250619_181311_comprehension.txt"
+    },
+    "task": "task: 滑动导航栏，找到“直播”并点击。",
+    "response": {
+      "interaction_object": "area_interaction",
+      "interaction_type": "swipe_left",
+      "interaction_parameter": {
+        "grounding": [
+          0.08,
+          0.03,
+          0.78,
+          0.1
+        ]
+      }
+    },
+    "adb_command_executed": "adb shell input swipe 882 182 150 182 300"
+  }
+]

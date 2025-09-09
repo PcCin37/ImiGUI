@@ -1,0 +1,21 @@
+[
+  {
+    "id": "screenshot_step4_20250620_165050",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step4_20250620_165050\\screenshot_step4_20250620_165050_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step4_20250620_165050\\screenshot_step4_20250620_165050_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step4_20250620_165050\\screenshot_step4_20250620_165050_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step4_20250620_165050\\screenshot_step4_20250620_165050_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step4_20250620_165050\\screenshot_step4_20250620_165050_comprehension.txt"
+    },
+    "task": "输入关键词“电竞椅”。",
+    "response": {
+      "interaction_object": "area_interaction",
+      "interaction_type": "input_text",
+      "interaction_parameter": {
+        "text": "电竞椅"
+      }
+    },
+    "adb_command_executed": "adb shell am broadcast -a ADB_INPUT_TEXT --es msg \"电竞椅\""
+  }
+]

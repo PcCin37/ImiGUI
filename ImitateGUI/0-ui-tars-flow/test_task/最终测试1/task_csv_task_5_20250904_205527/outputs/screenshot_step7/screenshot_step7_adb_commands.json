@@ -1,0 +1,30 @@
+{
+  "action_type": "scroll",
+  "parsed_action": {
+    "thought": "任务是下滑商品详情页，需要使用scroll操作，方向为down。选择页面中间区域作为起始位置，确保滚动操作有效覆盖页面内容。",
+    "action": "scroll",
+    "key": null,
+    "content": null,
+    "start_box": [
+      497,
+      556,
+      497,
+      556
+    ],
+    "end_box": null,
+    "direction": "down"
+  },
+  "coordinates": {
+    "start_abs": [
+      626,
+      1556,
+      626,
+      1556
+    ],
+    "end_abs": null
+  },
+  "commands": [
+    "adb -s 10ADB50U8A00193 shell input swipe 626 1556 626 1056 300"
+  ],
+  "timestamp": "2025-09-04 21:04:10"
+}

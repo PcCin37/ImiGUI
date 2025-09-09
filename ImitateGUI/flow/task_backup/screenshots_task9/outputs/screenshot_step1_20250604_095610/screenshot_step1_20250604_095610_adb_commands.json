@@ -1,0 +1,24 @@
+[
+  {
+    "id": "screenshot_step1_20250604_095610",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step1_20250604_095610\\screenshot_step1_20250604_095610_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step1_20250604_095610\\screenshot_step1_20250604_095610_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step1_20250604_095610\\screenshot_step1_20250604_095610_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step1_20250604_095610\\screenshot_step1_20250604_095610_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step1_20250604_095610\\screenshot_step1_20250604_095610_comprehension.txt"
+    },
+    "task": "task: 点击进入直播间",
+    "response": {
+      "interaction_object": "component_interaction",
+      "interaction_type": "tap",
+      "interaction_parameter": {
+        "grounding": [
+          0.5,
+          0.65
+        ]
+      }
+    },
+    "adb_command_executed": "adb shell input tap 620 1801"
+  }
+]

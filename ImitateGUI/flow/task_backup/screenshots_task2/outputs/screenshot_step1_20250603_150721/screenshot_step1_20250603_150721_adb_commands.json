@@ -1,0 +1,26 @@
+[
+  {
+    "id": "screenshot_step1_20250603_150721",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step1_20250603_150721\\screenshot_step1_20250603_150721_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step1_20250603_150721\\screenshot_step1_20250603_150721_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step1_20250603_150721\\screenshot_step1_20250603_150721_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step1_20250603_150721\\screenshot_step1_20250603_150721_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step1_20250603_150721\\screenshot_step1_20250603_150721_comprehension.txt"
+    },
+    "task": "task: 点击“点击进入直播间”按钮（标签28）。",
+    "response": {
+      "interaction_object": "component_interaction",
+      "interaction_type": "tap",
+      "interaction_parameter": {
+        "tag": "28",
+        "content": "Adding a new item or creating a new file."
+      },
+      "grounding": [
+        0.49816519021987915,
+        0.6430111825466156
+      ]
+    },
+    "adb_command_executed": "adb shell input tap 617 1782"
+  }
+]

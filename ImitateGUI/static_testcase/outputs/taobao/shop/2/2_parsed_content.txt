@@ -1,0 +1,36 @@
+icon 0: {'type': 'text', 'bbox': [0.1000848188996315, 0.023865414783358574, 0.2680237591266632, 0.04577464610338211], 'interactivity': False, 'content': '16:03 ', 'source': 'box_ocr_content_ocr'}
+icon 1: {'type': 'text', 'bbox': [0.051738761365413666, 0.56455397605896, 0.6022052764892578, 0.5876369476318359], 'interactivity': False, 'content': 'Home & Living | TrendingNow', 'source': 'box_ocr_content_ocr'}
+icon 2: {'type': 'text', 'bbox': [0.044953349977731705, 0.8094679117202759, 0.332485169172287, 0.8270735740661621], 'interactivity': False, 'content': 'Large Storage B...', 'source': 'box_ocr_content_ocr'}
+icon 3: {'type': 'text', 'bbox': [0.3553859293460846, 0.8071205019950867, 0.626802384853363, 0.8282472491264343], 'interactivity': False, 'content': 'Desk Storage R...', 'source': 'box_ocr_content_ocr'}
+icon 4: {'type': 'text', 'bbox': [0.6675148606300354, 0.8063380122184753, 0.9525021314620972, 0.8294209837913513], 'interactivity': False, 'content': 'Japanese-Style ...', 'source': 'box_ocr_content_ocr'}
+icon 5: {'type': 'text', 'bbox': [0.051738761365413666, 0.8278560042381287, 0.3206106722354889, 0.8521126508712769], 'interactivity': False, 'content': '30 off every 2...', 'source': 'box_ocr_content_ocr'}
+icon 6: {'type': 'text', 'bbox': [0.36217132210731506, 0.8290297389030457, 0.6310432553291321, 0.8513302206993103], 'interactivity': False, 'content': '30 off every 2...', 'source': 'box_ocr_content_ocr'}
+icon 7: {'type': 'text', 'bbox': [0.6751484274864197, 0.8290297389030457, 0.9431721568107605, 0.8513302206993103], 'interactivity': False, 'content': '30 off every 2...', 'source': 'box_ocr_content_ocr'}
+icon 8: {'type': 'text', 'bbox': [0.04919423162937164, 0.8603286147117615, 0.1764206886291504, 0.8822378516197205], 'interactivity': False, 'content': '30.52', 'source': 'box_ocr_content_ocr'}
+icon 9: {'type': 'text', 'bbox': [0.36132314801216125, 0.8595461845397949, 0.47073790431022644, 0.8822378516197205], 'interactivity': False, 'content': '33.4', 'source': 'box_ocr_content_ocr'}
+icon 10: {'type': 'text', 'bbox': [0.6717557311058044, 0.8595461845397949, 0.7811704874038696, 0.8822378516197205], 'interactivity': False, 'content': '23.9', 'source': 'box_ocr_content_ocr'}
+icon 11: {'type': 'text', 'bbox': [0.04240882024168968, 0.885367751121521, 0.15860898792743683, 0.8998435139656067], 'interactivity': False, 'content': '~CA$6.0', 'source': 'box_ocr_content_ocr'}
+icon 12: {'type': 'text', 'bbox': [0.3545377552509308, 0.8841940760612488, 0.47328245639801025, 0.9021909236907959], 'interactivity': False, 'content': '~CA$6.5', 'source': 'box_ocr_content_ocr'}
+icon 13: {'type': 'text', 'bbox': [0.6700593829154968, 0.885367751121521, 0.7811704874038696, 0.8998435139656067], 'interactivity': False, 'content': '~CA$4.7', 'source': 'box_ocr_content_ocr'}
+icon 14: {'type': 'text', 'bbox': [0.044953349977731705, 0.908450722694397, 0.1543681025505066, 0.9229264259338379], 'interactivity': False, 'content': '5K+ sold', 'source': 'box_ocr_content_ocr'}
+icon 15: {'type': 'text', 'bbox': [0.3545377552509308, 0.908450722694397, 0.4800678491592407, 0.9229264259338379], 'interactivity': False, 'content': '300+ sold', 'source': 'box_ocr_content_ocr'}
+icon 16: {'type': 'icon', 'bbox': [0.01664276421070099, 0.4404837489128113, 0.49339666962623596, 0.5340979099273682], 'interactivity': True, 'content': 'Bedding  ', 'source': 'box_yolo_content_ocr'}
+icon 17: {'type': 'icon', 'bbox': [0.5039332509040833, 0.4419704079627991, 0.9805634617805481, 0.5331985354423523], 'interactivity': True, 'content': 'Shelves ', 'source': 'box_yolo_content_ocr'}
+icon 18: {'type': 'icon', 'bbox': [0.6671772599220276, 0.3402865529060364, 0.9790542125701904, 0.4320012032985687], 'interactivity': True, 'content': 'Home Storage & Organisation  ', 'source': 'box_yolo_content_ocr'}
+icon 19: {'type': 'icon', 'bbox': [0.019369754940271378, 0.33955758810043335, 0.3317583203315735, 0.43217092752456665], 'interactivity': True, 'content': 'HomeDecor ', 'source': 'box_yolo_content_ocr'}
+icon 20: {'type': 'icon', 'bbox': [0.6571363210678101, 0.6647049188613892, 0.9648149609565735, 0.8061283826828003], 'interactivity': True, 'content': 'No odor Dustproof with ', 'source': 'box_yolo_content_ocr'}
+icon 21: {'type': 'icon', 'bbox': [0.3444269299507141, 0.3394290804862976, 0.6554619073867798, 0.4318810999393463], 'interactivity': True, 'content': 'Kitchen &Dining  ', 'source': 'box_yolo_content_ocr'}
+icon 22: {'type': 'icon', 'bbox': [0.005688747391104698, 0.13064371049404144, 0.993422269821167, 0.3318299651145935], 'interactivity': True, 'content': 'Taobao Home Deals Home & Living Ends In: 31:56:20 TRENDING SEARCHES ', 'source': 'box_yolo_content_ocr'}
+icon 23: {'type': 'icon', 'bbox': [0.03423526510596275, 0.6143225431442261, 0.2839001417160034, 0.6565037369728088], 'interactivity': True, 'content': 'Functional ', 'source': 'box_yolo_content_ocr'}
+icon 24: {'type': 'icon', 'bbox': [0.3431376814842224, 0.6660223603248596, 0.639214038848877, 0.816025972366333], 'interactivity': True, 'content': '-20% ', 'source': 'box_yolo_content_ocr'}
+icon 25: {'type': 'icon', 'bbox': [0.32772690057754517, 0.9381622076034546, 0.6398321390151978, 1.0], 'interactivity': True, 'content': '-35% ', 'source': 'box_yolo_content_ocr'}
+icon 26: {'type': 'icon', 'bbox': [0.03702753409743309, 0.6649070382118225, 0.3304794132709503, 0.80409836769104], 'interactivity': True, 'content': '-14% goodbyet ', 'source': 'box_yolo_content_ocr'}
+icon 27: {'type': 'icon', 'bbox': [0.03320758417248726, 0.9397817254066467, 0.3400503098964691, 1.0], 'interactivity': True, 'content': 'Portable bath basket ', 'source': 'box_yolo_content_ocr'}
+icon 28: {'type': 'icon', 'bbox': [0.28990232944488525, 0.6143410205841064, 0.5595996379852295, 0.6556718945503235], 'interactivity': True, 'content': 'Cute Decor ', 'source': 'box_yolo_content_ocr'}
+icon 29: {'type': 'icon', 'bbox': [0.6551334857940674, 0.9389104843139648, 0.9257799983024597, 1.0], 'interactivity': True, 'content': '-8% ', 'source': 'box_yolo_content_ocr'}
+icon 30: {'type': 'icon', 'bbox': [0.7855932116508484, 0.08077061176300049, 0.8767136335372925, 0.1221100464463234], 'interactivity': True, 'content': 'A search function.', 'source': 'box_yolo_content_yolo'}
+icon 31: {'type': 'icon', 'bbox': [0.9039246439933777, 0.08174501359462738, 0.9855966567993164, 0.12226653844118118], 'interactivity': True, 'content': 'a line or line icon.', 'source': 'box_yolo_content_yolo'}
+icon 32: {'type': 'icon', 'bbox': [0.8401356339454651, 0.01928354986011982, 0.9208438992500305, 0.04821240156888962], 'interactivity': True, 'content': 'a push pin or pinning function.', 'source': 'box_yolo_content_yolo'}
+icon 33: {'type': 'icon', 'bbox': [0.778761088848114, 0.021272923797369003, 0.836017370223999, 0.046658094972372055], 'interactivity': True, 'content': 'A low-light mode or signal indicator.', 'source': 'box_yolo_content_yolo'}
+icon 34: {'type': 'icon', 'bbox': [0.031554754823446274, 0.08363617211580276, 0.10557658970355988, 0.12029573321342468], 'interactivity': True, 'content': 'the "Left" function.', 'source': 'box_yolo_content_yolo'}
+icon 35: {'type': 'icon', 'bbox': [0.7054923176765442, 0.020985493436455727, 0.7751524448394775, 0.04776221513748169], 'interactivity': True, 'content': 'a grid or grid view.', 'source': 'box_yolo_content_yolo'}

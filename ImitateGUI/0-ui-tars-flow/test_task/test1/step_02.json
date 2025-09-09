@@ -1,0 +1,68 @@
+{
+  "step_id": 2,
+  "timestamp": "2025-08-15T13:52:00.130306",
+  "action": "drag",
+  "target_element_description": "unknown",
+  "thought": "任务是向上滑动查看下一个视频，需要通过向上拖动屏幕来实现视频切换。在短视频界面中，向上滑动是切换下一个视频的常见操作。因此，应执行向上拖动屏幕的操作，起始位置可选择视频区域内的合适位置（如屏幕中间偏下部分），拖动方向为向上，以触发下一个视频的加载显示。",
+  "success": true,
+  "coordinates": null,
+  "absolute_coordinates": {
+    "start_box": [
+      626,
+      2032,
+      626,
+      2032
+    ],
+    "end_box": [
+      646,
+      338,
+      646,
+      338
+    ],
+    "direction": null
+  },
+  "error": null,
+  "task_id": "task_20250815_134001",
+  "app_name": "unknown_app",
+  "screenshot_before": "test_task/task_task_20250815_134001\\img\\screenshot_step2_20250815_134447.png",
+  "adb_commands": {
+    "action_type": "drag",
+    "parsed_action": {
+      "thought": "任务是向上滑动查看下一个视频，需要通过向上拖动屏幕来实现视频切换。在短视频界面中，向上滑动是切换下一个视频的常见操作。因此，应执行向上拖动屏幕的操作，起始位置可选择视频区域内的合适位置（如屏幕中间偏下部分），拖动方向为向上，以触发下一个视频的加载显示。",
+      "action": "drag",
+      "key": null,
+      "content": null,
+      "start_box": [
+        497,
+        726,
+        497,
+        726
+      ],
+      "end_box": [
+        513,
+        121,
+        513,
+        121
+      ],
+      "direction": null
+    },
+    "coordinates": {
+      "start_abs": [
+        626,
+        2032,
+        626,
+        2032
+      ],
+      "end_abs": [
+        646,
+        338,
+        646,
+        338
+      ]
+    },
+    "commands": [
+      "adb shell input swipe 626 2032 646 338 500"
+    ],
+    "timestamp": "2025-08-15 13:51:59"
+  }
+}

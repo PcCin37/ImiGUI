@@ -1,0 +1,13 @@
+[
+  {
+    "id": "screenshot_step4_20250620_180617",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step4_20250620_180617\\screenshot_step4_20250620_180617_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step4_20250620_180617\\screenshot_step4_20250620_180617_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step4_20250620_180617\\screenshot_step4_20250620_180617_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step4_20250620_180617\\screenshot_step4_20250620_180617_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step4_20250620_180617\\screenshot_step4_20250620_180617_comprehension.txt"
+    },
+    "task": "点击一个价格较高的山地自行车进行商品详情浏览。"
+  }
+]

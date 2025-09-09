@@ -1,0 +1,91 @@
+icon 0: {'content': '15:11 '}
+icon 1: {'content': 'A symbol or symbol related to a user profile or account.'}
+icon 2: {'content': 'Wi-Fi signal orWi-fi connectivity.'}
+icon 3: {'content': 'Close or cancel action.'}
+icon 4: {'content': '100'}
+icon 5: {'content': 'a user profile or account.'}
+icon 6: {'content': 'A logo or symbol related to a user profile or account.'}
+icon 7: {'content': 'a user profile or avatar.'}
+icon 8: {'content': 'A user profile or avatar.'}
+icon 9: {'content': 'A user profile or account.'}
+icon 10: {'content': 'A close-up or zoom-in view of a user profile.'}
+icon 11: {'content': 'a number or date.'}
+icon 12: {'content': 'N/A'}
+icon 13: {'content': 'a loading or buffering indicator.'}
+icon 14: {'content': 'a zoom-in tool or feature.'}
+icon 15: {'content': 'a user profile or account.'}
+icon 16: {'content': 'a bookmark or bookmark function.'}
+icon 17: {'content': 'A shortcut or file.'}
+icon 18: {'content': 'a bookmark or shield.'}
+icon 19: {'content': '23'}
+icon 20: {'content': 'A symbol or symbol related to a notification or message.'}
+icon 21: {'content': 'A check mark indicating a task or confirmation.'}
+icon 22: {'content': 'Jocky:'}
+icon 23: {'content': 'A bookmark or pinning function.'}
+icon 24: {'content': 'A symbol or emblem indicating a specific item or item, likely a score.'}
+icon 25: {'content': '10 '}
+icon 26: {'content': 'a chat or messaging application.'}
+icon 27: {'content': 'a bookmark or bookmark function.'}
+icon 28: {'content': '12'}
+icon 29: {'content': '39 '}
+icon 30: {'content': 'A symbol or logo indicating a specific function or function.'}
+icon 31: {'content': 'a line or line-related function.'}
+icon 32: {'content': 'a chat or messaging application.'}
+icon 33: {'content': 'A web browser or web browser.'}
+icon 34: {'content': 'A notification or message indicating the number "65".'}
+icon 35: {'content': 'A symbol or logo indicating a user profile or account.'}
+icon 36: {'content': 'A symbol or logo with the number 2.'}
+icon 37: {'content': 'A user profile or account.'}
+icon 38: {'content': 'a shortcut link.'}
+icon 39: {'content': '20 '}
+icon 40: {'content': 'A notification or alert.'}
+icon 41: {'content': 'A bookmark or bookmark function.'}
+icon 42: {'content': 'A computer or a laptop.'}
+icon 43: {'content': ' 509:3015:00'}
+icon 44: {'content': '12*'}
+icon 45: {'content': 'a pause button for an action to change the file.'}
+icon 46: {'content': 'A symbol or symbol related to symbol or design.'}
+icon 47: {'content': 'a logo or emblem for a browser or application.'}
+icon 48: {'content': 'a camera lens or camera.'}
+icon 49: {'content': 'a thumbs up or like symbol.'}
+icon 50: {'content': 'a blank space or screen.'}
+icon 51: {'content': 'Refresh or reload.'}
+icon 52: {'content': 'a user profile or avatar.'}
+icon 53: {'content': '@ '}
+icon 54: {'content': 'Adding a new item or element.'}
+icon 55: {'content': 'a stop button or stop button.'}
+icon 56: {'content': 'a menu or list option.'}
+icon 57: {'content': 'the back or back function.'}
+icon 58: {'content': 'Q '}
+icon 59: {'content': 'a smiley face or profile.'}
+icon 60: {'content': 'a checkmark ormark.'}
+icon 61: {'content': 'Q '}
+icon 62: {'content': '2 '}
+icon 63: {'content': 'A symbol or element element, possibly indicating an element or element.'}
+icon 64: {'content': 'U '}
+icon 65: {'content': 'A black line or marker.'}
+icon 66: {'content': 'A symbol or symbol, possibly indicating the number 9.'}
+icon 67: {'content': '0 P '}
+icon 68: {'content': 'A '}
+icon 69: {'content': 'A symbol or symbol related to email or messaging.'}
+icon 70: {'content': '#  '}
+icon 71: {'content': '& H '}
+icon 72: {'content': '* J '}
+icon 73: {'content': 'K '}
+icon 74: {'content': ') L '}
+icon 75: {'content': 'A symbol or symbol related to writing.'}
+icon 76: {'content': 'A blank space or form indicator.'}
+icon 77: {'content': 'A close or delete function.'}
+icon 78: {'content': 'A phone call symbol.'}
+icon 79: {'content': 'A marker or text marker.'}
+icon 80: {'content': 'B '}
+icon 81: {'content': 'N '}
+icon 82: {'content': 'A bookmark or bookmark feature.'}
+icon 83: {'content': 'Close or delete function.'}
+icon 84: {'content': 'a single line or pointer.'}
+icon 85: {'content': 'A symbol or symbol related to writing.'}
+icon 86: {'content': '123 '}
+icon 87: {'content': 'A line or symbol indicating a connection or connection.'}
+icon 88: {'content': '? '}
+icon 89: {'content': 'Adding a new item or creating a new message.'}
+icon 90: {'content': 'the back arrow or "Back" function.'}

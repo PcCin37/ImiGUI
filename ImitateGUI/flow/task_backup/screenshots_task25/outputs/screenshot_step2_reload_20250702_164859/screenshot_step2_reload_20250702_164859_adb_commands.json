@@ -1,0 +1,26 @@
+[
+  {
+    "id": "screenshot_step2_reload_20250702_164859",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step2_reload_20250702_164859\\screenshot_step2_reload_20250702_164859_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step2_reload_20250702_164859\\screenshot_step2_reload_20250702_164859_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step2_reload_20250702_164859\\screenshot_step2_reload_20250702_164859_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step2_reload_20250702_164859\\screenshot_step2_reload_20250702_164859_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step2_reload_20250702_164859\\screenshot_step2_reload_20250702_164859_comprehension.txt"
+    },
+    "task": "选择商品，点击进入购买界面。",
+    "response": {
+      "interaction_object": "component_interaction",
+      "interaction_type": "tap",
+      "interaction_parameter": {
+        "tag": "18",
+        "content": "a checkbox indicating a task or move to the next item."
+      },
+      "grounding": [
+        0.5586227625608444,
+        0.1282760426402092
+      ]
+    },
+    "adb_command_executed": "adb shell input tap 703 359"
+  }
+]

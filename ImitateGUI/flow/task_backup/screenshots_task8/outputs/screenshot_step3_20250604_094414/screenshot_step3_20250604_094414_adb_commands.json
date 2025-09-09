@@ -1,0 +1,26 @@
+[
+  {
+    "id": "screenshot_step3_20250604_094414",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step3_20250604_094414\\screenshot_step3_20250604_094414_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step3_20250604_094414\\screenshot_step3_20250604_094414_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step3_20250604_094414\\screenshot_step3_20250604_094414_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step3_20250604_094414\\screenshot_step3_20250604_094414_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step3_20250604_094414\\screenshot_step3_20250604_094414_comprehension.txt"
+    },
+    "task": "task: 点击“赠送”按钮进行礼物送出操作。",
+    "response": {
+      "interaction_object": "component_interaction",
+      "interaction_type": "tap",
+      "interaction_parameter": {
+        "tag": "39",
+        "content": "赠送"
+      },
+      "grounding": [
+        0.12968745827674866,
+        0.7001648545265198
+      ]
+    },
+    "adb_command_executed": "adb shell input tap 160 1940"
+  }
+]

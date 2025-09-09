@@ -1,0 +1,25 @@
+[
+    {
+        "id": "screenshot_step3_20250530_164916",
+        "image": {
+            "original_iamge": "screenshots\\outputs\\screenshot_step3_20250530_164916\\screenshot_step3_20250530_164916_original_img.jpg",
+            "som_image": "screenshots\\outputs\\screenshot_step3_20250530_164916\\screenshot_step3_20250530_164916_som_img.jpg",
+            "som_text": "screenshots\\outputs\\screenshot_step3_20250530_164916\\screenshot_step3_20250530_164916_tags_order.txt",
+            "som_tags": "screenshots\\outputs\\screenshot_step3_20250530_164916\\screenshot_step3_20250530_164916_tags_order_content.txt",
+            "comprehension": "screenshots\\outputs\\screenshot_step3_20250530_164916\\screenshot_step3_20250530_164916_comprehension.txt"
+        },
+        "task": "点击 \"￥142.00立即支付\" 按钮。",
+        "response": {
+            "interaction_object": "component_interaction",
+            "interaction_type": "tap",
+            "interaction_parameter": {
+                "tag": "35",
+                "content": "￥142.00立即支付"
+            },
+            "grounding": [
+                0.7410745173692703,
+                0.9295453727245331
+            ]
+        }
+    }
+]

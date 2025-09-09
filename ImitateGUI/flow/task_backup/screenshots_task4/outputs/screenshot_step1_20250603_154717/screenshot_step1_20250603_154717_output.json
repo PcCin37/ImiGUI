@@ -1,0 +1,13 @@
+[
+  {
+    "id": "screenshot_step1_20250603_154717",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step1_20250603_154717\\screenshot_step1_20250603_154717_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step1_20250603_154717\\screenshot_step1_20250603_154717_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step1_20250603_154717\\screenshot_step1_20250603_154717_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step1_20250603_154717\\screenshot_step1_20250603_154717_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step1_20250603_154717\\screenshot_step1_20250603_154717_comprehension.txt"
+    },
+    "task": "点击右下角的购物车图标（标签 40）。"
+  }
+]

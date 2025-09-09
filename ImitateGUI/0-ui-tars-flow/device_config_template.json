@@ -1,0 +1,83 @@
+{
+  "device_configs": [
+    {
+      "device_id": "emulator-5554",
+      "device_name": "Android模拟器1",
+      "enabled": true,
+      "priority": 1,
+      "output_dir": "./outputs/emulator-5554",
+      "settings": {
+        "screenshot_delay": 2,
+        "action_delay": 1,
+        "max_retries": 3,
+        "timeout": 30
+      },
+      "tasks": [
+        "基础UI测试",
+        "应用启动测试"
+      ]
+    },
+    {
+      "device_id": "10ADB50U8A00193",
+      "device_name": "真实设备1",
+      "enabled": true,
+      "priority": 2,
+      "output_dir": "./outputs/10ADB50U8A00193",
+      "settings": {
+        "screenshot_delay": 1.5,
+        "action_delay": 0.8,
+        "max_retries": 5,
+        "timeout": 45
+      },
+      "tasks": [
+        "完整功能测试",
+        "性能测试"
+      ]
+    }
+  ],
+  "global_settings": {
+    "concurrent_limit": 3,
+    "log_level": "INFO",
+    "backup_screenshots": true,
+    "cleanup_old_outputs": true,
+    "max_output_age_days": 7
+  },
+  "task_templates": {
+    "基础UI测试": {
+      "description": "测试应用基本UI交互功能",
+      "steps": [
+        "启动应用",
+        "检查主界面元素",
+        "执行基本点击操作",
+        "验证响应"
+      ]
+    },
+    "应用启动测试": {
+      "description": "测试应用启动性能和稳定性",
+      "steps": [
+        "清理应用缓存",
+        "启动应用",
+        "记录启动时间",
+        "检查内存使用"
+      ]
+    },
+    "完整功能测试": {
+      "description": "全面测试应用所有功能模块",
+      "steps": [
+        "登录流程测试",
+        "核心功能测试",
+        "边界条件测试",
+        "异常处理测试"
+      ]
+    },
+    "性能测试": {
+      "description": "测试应用性能指标",
+      "steps": [
+        "CPU使用率监控",
+        "内存使用监控",
+        "网络请求性能",
+        "UI响应时间"
+      ]
+    }
+  }
+}

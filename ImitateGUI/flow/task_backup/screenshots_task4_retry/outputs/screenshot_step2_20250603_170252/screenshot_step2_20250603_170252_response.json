@@ -1,0 +1,25 @@
+[
+    {
+        "id": "screenshot_step2_20250603_170252",
+        "image": {
+            "original_iamge": "screenshots\\outputs\\screenshot_step2_20250603_170252\\screenshot_step2_20250603_170252_original_img.jpg",
+            "som_image": "screenshots\\outputs\\screenshot_step2_20250603_170252\\screenshot_step2_20250603_170252_som_img.jpg",
+            "som_text": "screenshots\\outputs\\screenshot_step2_20250603_170252\\screenshot_step2_20250603_170252_tags_order.txt",
+            "som_tags": "screenshots\\outputs\\screenshot_step2_20250603_170252\\screenshot_step2_20250603_170252_tags_order_content.txt",
+            "comprehension": "screenshots\\outputs\\screenshot_step2_20250603_170252\\screenshot_step2_20250603_170252_comprehension.txt"
+        },
+        "task": "task: 点击“1元”按钮（标签26）。",
+        "response": {
+            "interaction_object": "component_interaction",
+            "interaction_type": "tap",
+            "interaction_parameter": {
+                "tag": "26",
+                "content": "A notification indicating one step."
+            },
+            "grounding": [
+                0.9061031937599182,
+                0.16475460678339005
+            ]
+        }
+    }
+]

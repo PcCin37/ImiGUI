@@ -1,0 +1,26 @@
+[
+  {
+    "id": "screenshot_step5_20250604_133905",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step5_20250604_133905\\screenshot_step5_20250604_133905_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step5_20250604_133905\\screenshot_step5_20250604_133905_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step5_20250604_133905\\screenshot_step5_20250604_133905_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step5_20250604_133905\\screenshot_step5_20250604_133905_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step5_20250604_133905\\screenshot_step5_20250604_133905_comprehension.txt"
+    },
+    "task": "task: 选择商品颜色分类为\"白色/蛋壳白色 热销\"的商品。",
+    "response": {
+      "interaction_object": "component_interaction",
+      "interaction_type": "tap",
+      "interaction_parameter": {
+        "tag": "21",
+        "content": "the symbol for writing or marking."
+      },
+      "grounding": [
+        0.7481967806816101,
+        0.49027614295482635
+      ]
+    },
+    "adb_command_executed": "adb shell input tap 927 1359"
+  }
+]

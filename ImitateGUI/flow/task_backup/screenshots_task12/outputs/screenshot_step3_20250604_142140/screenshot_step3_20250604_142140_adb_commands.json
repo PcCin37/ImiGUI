@@ -1,0 +1,26 @@
+[
+  {
+    "id": "screenshot_step3_20250604_142140",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step3_20250604_142140\\screenshot_step3_20250604_142140_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step3_20250604_142140\\screenshot_step3_20250604_142140_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step3_20250604_142140\\screenshot_step3_20250604_142140_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step3_20250604_142140\\screenshot_step3_20250604_142140_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step3_20250604_142140\\screenshot_step3_20250604_142140_comprehension.txt"
+    },
+    "task": "task: 点击红色按钮“加入购物车”。",
+    "response": {
+      "interaction_object": "component_interaction",
+      "interaction_type": "tap",
+      "interaction_parameter": {
+        "tag": "26",
+        "content": "加入购物车"
+      },
+      "grounding": [
+        0.4993931893259287,
+        0.9432598054409027
+      ]
+    },
+    "adb_command_executed": "adb shell input tap 619 2614"
+  }
+]

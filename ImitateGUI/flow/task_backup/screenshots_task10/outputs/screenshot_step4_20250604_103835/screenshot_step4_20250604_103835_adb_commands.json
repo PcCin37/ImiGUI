@@ -1,0 +1,26 @@
+[
+  {
+    "id": "screenshot_step4_20250604_103835",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step4_20250604_103835\\screenshot_step4_20250604_103835_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step4_20250604_103835\\screenshot_step4_20250604_103835_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step4_20250604_103835\\screenshot_step4_20250604_103835_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step4_20250604_103835\\screenshot_step4_20250604_103835_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step4_20250604_103835\\screenshot_step4_20250604_103835_comprehension.txt"
+    },
+    "task": "task: 选择天蓝色的商品。",
+    "response": {
+      "interaction_object": "component_interaction",
+      "interaction_type": "tap",
+      "interaction_parameter": {
+        "tag": "19",
+        "content": "A message or messagebox."
+      },
+      "grounding": [
+        0.4978455454111099,
+        0.4385077804327011
+      ]
+    },
+    "adb_command_executed": "adb shell input tap 617 1215"
+  }
+]

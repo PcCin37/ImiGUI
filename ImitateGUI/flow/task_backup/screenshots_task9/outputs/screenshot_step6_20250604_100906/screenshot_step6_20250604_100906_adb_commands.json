@@ -1,0 +1,26 @@
+[
+  {
+    "id": "screenshot_step6_20250604_100906",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step6_20250604_100906\\screenshot_step6_20250604_100906_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step6_20250604_100906\\screenshot_step6_20250604_100906_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step6_20250604_100906\\screenshot_step6_20250604_100906_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step6_20250604_100906\\screenshot_step6_20250604_100906_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step6_20250604_100906\\screenshot_step6_20250604_100906_comprehension.txt"
+    },
+    "task": "task: 点击购物车中第二个商品的“凌单”按钮进行购买操作。",
+    "response": {
+      "interaction_object": "component_interaction",
+      "interaction_type": "tap",
+      "interaction_parameter": {
+        "tag": "39",
+        "content": "Red symbol or logo."
+      },
+      "grounding": [
+        0.8904449343681335,
+        0.605351597070694
+      ]
+    },
+    "adb_command_executed": "adb shell input tap 1104 1678"
+  }
+]

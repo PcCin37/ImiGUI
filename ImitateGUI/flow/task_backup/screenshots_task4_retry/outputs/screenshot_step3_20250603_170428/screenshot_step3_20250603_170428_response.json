@@ -1,0 +1,25 @@
+[
+    {
+        "id": "screenshot_step3_20250603_170428",
+        "image": {
+            "original_iamge": "screenshots\\outputs\\screenshot_step3_20250603_170428\\screenshot_step3_20250603_170428_original_img.jpg",
+            "som_image": "screenshots\\outputs\\screenshot_step3_20250603_170428\\screenshot_step3_20250603_170428_som_img.jpg",
+            "som_text": "screenshots\\outputs\\screenshot_step3_20250603_170428\\screenshot_step3_20250603_170428_tags_order.txt",
+            "som_tags": "screenshots\\outputs\\screenshot_step3_20250603_170428\\screenshot_step3_20250603_170428_tags_order_content.txt",
+            "comprehension": "screenshots\\outputs\\screenshot_step3_20250603_170428\\screenshot_step3_20250603_170428_comprehension.txt"
+        },
+        "task": "task: 点击底部功能区的购物车图标（标签38）。",
+        "response": {
+            "interaction_object": "component_interaction",
+            "interaction_type": "tap",
+            "interaction_parameter": {
+                "tag": "38",
+                "content": "A thumbs up or like button."
+            },
+            "grounding": [
+                0.5204717218875885,
+                0.9461908042430878
+            ]
+        }
+    }
+]

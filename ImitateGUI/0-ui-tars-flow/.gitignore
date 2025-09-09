@@ -1,0 +1,38 @@
+# Ignore large data files
+memory_system/data/chroma/
+*.bin
+*.sqlite3
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Environment variables
+.env
+.venv
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Screenshots and outputs (optional)
+screenshots/
+test_task/*/img/
+test_task/*/outputs/

@@ -1,0 +1,20 @@
+{
+  "action_type": "type",
+  "parsed_action": {
+    "thought": "",
+    "action": "type",
+    "key": null,
+    "content": "ktv",
+    "start_box": null,
+    "end_box": null,
+    "direction": null
+  },
+  "coordinates": {
+    "start_abs": null,
+    "end_abs": null
+  },
+  "commands": [
+    "adb -s 10ADB50U8A00193 shell am broadcast -a ADB_INPUT_TEXT --es msg \"ktv\""
+  ],
+  "timestamp": "2025-09-05 15:47:12"
+}

@@ -1,0 +1,13 @@
+[
+  {
+    "id": "screenshot_step8_20250603_171443",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step8_20250603_171443\\screenshot_step8_20250603_171443_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step8_20250603_171443\\screenshot_step8_20250603_171443_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step8_20250603_171443\\screenshot_step8_20250603_171443_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step8_20250603_171443\\screenshot_step8_20250603_171443_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step8_20250603_171443\\screenshot_step8_20250603_171443_comprehension.txt"
+    },
+    "task": "task: 点击底部红色按钮“请选择规格”。"
+  }
+]

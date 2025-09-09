@@ -1,0 +1,26 @@
+[
+  {
+    "id": "screenshot_step1_20250619_181144",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step1_20250619_181144\\screenshot_step1_20250619_181144_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step1_20250619_181144\\screenshot_step1_20250619_181144_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step1_20250619_181144\\screenshot_step1_20250619_181144_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step1_20250619_181144\\screenshot_step1_20250619_181144_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step1_20250619_181144\\screenshot_step1_20250619_181144_comprehension.txt"
+    },
+    "task": "**task**: 滑动导航栏以找到并可见“直播”按钮。",
+    "response": {
+      "interaction_object": "area_interaction",
+      "interaction_type": "swipe_left",
+      "interaction_parameter": {
+        "grounding": [
+          0.2231030911207199,
+          0.048916902393102646,
+          0.8483902215957642,
+          0.11099622398614883
+        ]
+      }
+    },
+    "adb_command_executed": "adb shell input swipe 968 223 331 223 300"
+  }
+]

@@ -1,0 +1,72 @@
+icon 0: {'content': '16:00'}
+icon 1: {'content': 'a notification or alert.'}
+icon 2: {'content': 'A note or note-taking application.'}
+icon 3: {'content': 'Refresh or reload.'}
+icon 4: {'content': 'a line or arrow pointing downward.'}
+icon 5: {'content': 'Wi-Fi signal or network connection.'}
+icon 6: {'content': 'Close or delete function.'}
+icon 7: {'content': 'A number or date.'}
+icon 8: {'content': 'A shortcut or file.'}
+icon 9: {'content': 'A symbol or symbol related to Chinese or Chinese characters.'}
+icon 10: {'content': 'A text input or translation function.'}
+icon 11: {'content': 'a person with long dark hair.'}
+icon 12: {'content': 'A user profile or avatar.'}
+icon 13: {'content': 'A disc or disc with a symbol for a currency or currency.'}
+icon 14: {'content': 'A numbered item or symbol.'}
+icon 15: {'content': '137X'}
+icon 16: {'content': 'a close or delete function.'}
+icon 17: {'content': 'A user profile or account.'}
+icon 18: {'content': 'A symbol or symbol related to a music player.'}
+icon 19: {'content': 'a line or random file.'}
+icon 20: {'content': '03:46 '}
+icon 21: {'content': 'a bookmarking function.'}
+icon 22: {'content': 'a bookmarking or bookmarking feature.'}
+icon 23: {'content': 'a white arrow pointing downward.'}
+icon 24: {'content': 'a bookmarking or bookmarking.'}
+icon 25: {'content': 'adding a new item or creating something new.'}
+icon 26: {'content': 'Red circle with Chinese writing.'}
+icon 27: {'content': 'Currency exchange.'}
+icon 28: {'content': 'a symbol or symbol related to writing or writing.'}
+icon 29: {'content': 'A symbol or symbol related to a user profile or account.'}
+icon 30: {'content': 'a symbol or logo.'}
+icon 31: {'content': 'the symbol for adding a new item or element.'}
+icon 32: {'content': 'A text input tool or symbol.'}
+icon 33: {'content': 'the symbol for writing.'}
+icon 34: {'content': '399 '}
+icon 35: {'content': '399 '}
+icon 36: {'content': 'a push button or element to add or create a new item.'}
+icon 37: {'content': 'Adding a new item or creating a new file.'}
+icon 38: {'content': 'A red and white symbol with the number 6.'}
+icon 39: {'content': '618'}
+icon 40: {'content': 'A tool or toolbox.'}
+icon 41: {'content': 'A symbol or symbol related to a home or main menu.'}
+icon 42: {'content': 'Red paint or paintbrush tool.'}
+icon 43: {'content': '32970 '}
+icon 44: {'content': 'the symbol for adding a new item or element.'}
+icon 45: {'content': 'A symbol or symbol related to writing or writing.'}
+icon 46: {'content': 'the symbol for a user profile or account.'}
+icon 47: {'content': '329 '}
+icon 48: {'content': 'a push button or element to add or create a new item.'}
+icon 49: {'content': 'Adding a new item or creating something new.'}
+icon 50: {'content': 'A symbol or symbol related to a new item or item.'}
+icon 51: {'content': 'A tool or toolbox.'}
+icon 52: {'content': 'a tool for changing audio or audio settings.'}
+icon 53: {'content': '367it '}
+icon 54: {'content': '520 209 '}
+icon 55: {'content': 'the symbol for adding a new item or element.'}
+icon 56: {'content': 'A text input tool or tool.'}
+icon 57: {'content': 'the symbol foradding a new item or element.'}
+icon 58: {'content': '209 '}
+icon 59: {'content': 'a push button or delete function.'}
+icon 60: {'content': 'Adding a new item or creating a new file.'}
+icon 61: {'content': '10 '}
+icon 62: {'content': 'A notification or alert indicating the number 6.'}
+icon 63: {'content': 'a tool or toolbox.'}
+icon 64: {'content': 'a tool or tool block.'}
+icon 65: {'content': 'the symbol for a platform or platform related to programming or language.'}
+icon 66: {'content': 'A text input tool or symbol.'}
+icon 67: {'content': 'the symbol for writing.'}
+icon 68: {'content': '199'}
+icon 69: {'content': '199t '}
+icon 70: {'content': 'a push pin or button to add or create a new item.'}
+icon 71: {'content': 'Adding a new item or creating a new file.'}

@@ -1,0 +1,12 @@
+{
+  "task_id": "task_20250814_173710",
+  "global_task": "点击第三家酒店，查看对应评价",
+  "app_name": "unknown_app",
+  "created_at": "2025-08-14T17:37:10.365731",
+  "status": "completed",
+  "completed_at": "2025-08-14T17:40:31.513897",
+  "is_successful": true,
+  "final_evaluation": null,
+  "experience_id": "Successfully learned experience from task 'task_20250814_173710'. Record ID: task_20250814_173710",
+  "steps_executed": 2
+}

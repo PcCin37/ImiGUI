@@ -1,0 +1,21 @@
+icon 0: {'type': 'text', 'bbox': [0.11874470114707947, 0.09350547939538956, 0.5267175436019897, 0.11658842116594315], 'interactivity': False, 'content': ' Search Amazon.com', 'source': 'box_ocr_content_ocr'}
+icon 1: {'type': 'text', 'bbox': [0.8770143985748291, 0.4988262951374054, 0.9821882843971252, 0.5144757628440857], 'interactivity': False, 'content': '41% off', 'source': 'box_ocr_content_ocr'}
+icon 2: {'type': 'text', 'bbox': [0.038167938590049744, 0.7946009635925293, 0.7056827545166016, 0.815727710723877], 'interactivity': False, 'content': 'Sign in for the best experience', 'source': 'box_ocr_content_ocr'}
+icon 3: {'type': 'icon', 'bbox': [0.42638418078422546, 0.3111986517906189, 0.7763960361480713, 0.5288740992546082], 'interactivity': True, 'content': 'SYLVANIA 60 30% off ', 'source': 'box_yolo_content_ocr'}
+icon 4: {'type': 'icon', 'bbox': [0.06815289705991745, 0.5350993871688843, 0.41420477628707886, 0.7554243803024292], 'interactivity': True, 'content': 'THERMOS) 30% off ', 'source': 'box_yolo_content_ocr'}
+icon 5: {'type': 'icon', 'bbox': [0.029048379510641098, 0.8306180834770203, 0.9708800911903381, 0.8888707160949707], 'interactivity': True, 'content': 'Sign in securely ', 'source': 'box_yolo_content_ocr'}
+icon 6: {'type': 'icon', 'bbox': [0.05849296972155571, 0.19836153090000153, 0.7979092001914978, 0.30744361877441406], 'interactivity': True, 'content': 'Shop deals ending soon ', 'source': 'box_yolo_content_ocr'}
+icon 7: {'type': 'icon', 'bbox': [0.4310343265533447, 0.5347382426261902, 0.7772659063339233, 0.7589531540870667], 'interactivity': True, 'content': '15% off ', 'source': 'box_yolo_content_ocr'}
+icon 8: {'type': 'icon', 'bbox': [0.09590007364749908, 0.020140018314123154, 0.2697361707687378, 0.04838090017437935], 'interactivity': True, 'content': '16:19  ', 'source': 'box_yolo_content_ocr'}
+icon 9: {'type': 'icon', 'bbox': [0.32455796003341675, 0.9084263443946838, 0.42625969648361206, 0.9611712098121643], 'interactivity': True, 'content': '8 ', 'source': 'box_yolo_content_ocr'}
+icon 10: {'type': 'icon', 'bbox': [0.824448823928833, 0.19759494066238403, 1.0, 0.3263556957244873], 'interactivity': True, 'content': 'dea ', 'source': 'box_yolo_content_ocr'}
+icon 11: {'type': 'icon', 'bbox': [0.02023939974606037, 0.14486703276634216, 0.5209555625915527, 0.18928097188472748], 'interactivity': True, 'content': 'Deliver to Singapore  ', 'source': 'box_yolo_content_ocr'}
+icon 12: {'type': 'icon', 'bbox': [0.8524032235145569, 0.5326988697052002, 1.0, 0.7708888053894043], 'interactivity': True, 'content': '26% off ', 'source': 'box_yolo_content_ocr'}
+icon 13: {'type': 'icon', 'bbox': [0.07758535444736481, 0.4922288656234741, 0.2099715769290924, 0.5223767757415771], 'interactivity': True, 'content': '15% off ', 'source': 'box_yolo_content_ocr'}
+icon 14: {'type': 'icon', 'bbox': [0.8773994445800781, 0.08485652506351471, 0.9516304135322571, 0.12607385218143463], 'interactivity': True, 'content': 'Refresh or reload the page.', 'source': 'box_yolo_content_yolo'}
+icon 15: {'type': 'icon', 'bbox': [0.7058578729629517, 0.022514430806040764, 0.771990180015564, 0.04613122716546059], 'interactivity': True, 'content': 'a grid or grid view option.', 'source': 'box_yolo_content_yolo'}
+icon 16: {'type': 'icon', 'bbox': [0.7785934209823608, 0.02176731266081333, 0.8346301913261414, 0.04712778329849243], 'interactivity': True, 'content': 'a low-to-high level indicator.', 'source': 'box_yolo_content_yolo'}
+icon 17: {'type': 'icon', 'bbox': [0.8407256007194519, 0.019981419667601585, 0.9183942079544067, 0.04833916202187538], 'interactivity': True, 'content': 'a lightning or power button.', 'source': 'box_yolo_content_yolo'}
+icon 18: {'type': 'icon', 'bbox': [0.05974608659744263, 0.903847873210907, 0.18991965055465698, 0.9668464660644531], 'interactivity': True, 'content': 'A bookmark or pinning function.', 'source': 'box_yolo_content_yolo'}
+icon 19: {'type': 'icon', 'bbox': [0.5755608677864075, 0.9117814898490906, 0.6772716641426086, 0.9624398946762085], 'interactivity': True, 'content': 'a note or message.', 'source': 'box_yolo_content_yolo'}
+icon 20: {'type': 'icon', 'bbox': [0.8179755806922913, 0.9079496264457703, 0.933101236820221, 0.9607375860214233], 'interactivity': True, 'content': 'a bar or line.', 'source': 'box_yolo_content_yolo'}

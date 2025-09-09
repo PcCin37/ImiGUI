@@ -1,0 +1,17 @@
+[
+    {
+        "id": "screenshot_step3_reload_20250707_165920",
+        "image": {
+            "original_iamge": "screenshots\\outputs\\screenshot_step3_reload_20250707_165920\\screenshot_step3_reload_20250707_165920_original_img.jpg",
+            "som_image": "screenshots\\outputs\\screenshot_step3_reload_20250707_165920\\screenshot_step3_reload_20250707_165920_som_img.jpg",
+            "som_text": "screenshots\\outputs\\screenshot_step3_reload_20250707_165920\\screenshot_step3_reload_20250707_165920_tags_order.txt",
+            "som_tags": "screenshots\\outputs\\screenshot_step3_reload_20250707_165920\\screenshot_step3_reload_20250707_165920_tags_order_content.txt",
+            "comprehension": "screenshots\\outputs\\screenshot_step3_reload_20250707_165920\\screenshot_step3_reload_20250707_165920_comprehension.txt"
+        },
+        "task": "task: 浏览相关搜索结果，寻找合适的商品",
+        "response": {
+            "interaction_object": "area_interaction",
+            "interaction_type": "swipe_up"
+        }
+    }
+]

@@ -1,0 +1,40 @@
+icon 0: {'content': '16:26  '}
+icon 1: {'content': 'A profile or profile picture.'}
+icon 2: {'content': 'a button to close or delete an item.'}
+icon 3: {'content': 'A symbol or symbol, possibly indicating the number "65".'}
+icon 4: {'content': 'A symbol or symbol, possibly indicating a user profile or account.'}
+icon 5: {'content': 'Order summary '}
+icon 6: {'content': 'A black arrow or pinning function.'}
+icon 7: {'content': ' Your information is secure and encrypted '}
+icon 8: {'content': '+ Add shipping address '}
+icon 9: {'content': 'A bookmark for the "POP MART" application.'}
+icon 10: {'content': 'Mall ) POP MART Singapore Online Add note >'}
+icon 11: {'content': 'POP MART, CRYBABY x Powerpuff Gi... '}
+icon 12: {'content': 'Single Box'}
+icon 13: {'content': 'a notification or alert.'}
+icon 14: {'content': 'Q Free Return'}
+icon 15: {'content': '100% Authentic'}
+icon 16: {'content': 'S$18.90'}
+icon 17: {'content': 'a loading or buffering indicator.'}
+icon 18: {'content': 'A bookmark or pinning function.'}
+icon 19: {'content': 'A button to add or create a new item.'}
+icon 20: {'content': 'Low stock '}
+icon 21: {'content': 'TikTok Shop discount'}
+icon 22: {'content': 'a push pin or arrow.'}
+icon 23: {'content': 'Order summary '}
+icon 24: {'content': 'Subtotal'}
+icon 25: {'content': 'S$18.90'}
+icon 26: {'content': 'Shipping'}
+icon 27: {'content': '$$0.00'}
+icon 28: {'content': 'Total'}
+icon 29: {'content': 'S$18.90'}
+icon 30: {'content': 'GST included, where applicable.'}
+icon 31: {'content': 'Payment method'}
+icon 32: {'content': 'Credit/debit card '}
+icon 33: {'content': 'a push pin or arrow.'}
+icon 34: {'content': 'VISA'}
+icon 35: {'content': 'A credit card or credit card application.'}
+icon 36: {'content': 'UnonPay.'}
+icon 37: {'content': 'Total (1 item) '}
+icon 38: {'content': 'Place order '}
+icon 39: {'content': 'S$18.90 '}

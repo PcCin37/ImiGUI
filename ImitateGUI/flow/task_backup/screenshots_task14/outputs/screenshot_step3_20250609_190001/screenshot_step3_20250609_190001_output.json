@@ -1,0 +1,13 @@
+[
+  {
+    "id": "screenshot_step3_20250609_190001",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step3_20250609_190001\\screenshot_step3_20250609_190001_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step3_20250609_190001\\screenshot_step3_20250609_190001_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step3_20250609_190001\\screenshot_step3_20250609_190001_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step3_20250609_190001\\screenshot_step3_20250609_190001_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step3_20250609_190001\\screenshot_step3_20250609_190001_comprehension.txt"
+    },
+    "task": "task: 点击“展开86条回复”或“展开162条回复”以查看更多评论内容。"
+  }
+]

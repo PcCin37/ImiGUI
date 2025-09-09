@@ -1,0 +1,11 @@
+{
+  "task_id": "task_20250815_134001",
+  "global_task": "进入推荐频道，向上滑动查看五个视频，并对第五个视频点赞，收藏，最后转发到日常",
+  "app_name": "unknown_app",
+  "experience_id": "Experience with source_task_id 'task_20250815_134001' already exists, skipping.",
+  "is_successful": true,
+  "final_evaluation": null,
+  "steps_executed": 9,
+  "completed_at": "2025-08-15T15:01:39.782914",
+  "exit_reason": "task_finished"
+}

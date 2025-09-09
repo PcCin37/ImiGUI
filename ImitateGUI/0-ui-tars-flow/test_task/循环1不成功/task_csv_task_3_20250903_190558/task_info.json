@@ -1,0 +1,12 @@
+{
+  "task_id": "csv_task_1_20250903_190558",
+  "global_task": "点击抖音登陆-点击底tab【商城】标签-下滑商城页-点击商品卡-下滑商品详情页-点击商品评价卡片-点击购买-滑动sku选择商品种类-点击底部中央【Home】键回到桌面-点击底部左侧【后台进程】键查看进程-点击x键清除进程",
+  "app_name": "unknown_app",
+  "created_at": "2025-09-03T19:05:58.928305",
+  "status": "completed",
+  "completed_at": "2025-09-03T19:24:09.659427",
+  "is_successful": true,
+  "final_evaluation": "自动完成的任务",
+  "experience_id": "Successfully learned experience from task 'csv_task_1_20250903_190558'. Record ID: csv_task_1_20250903_190558",
+  "steps_executed": 11
+}

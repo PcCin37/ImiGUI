@@ -1,0 +1,13 @@
+[
+  {
+    "id": "screenshot_step7_reload_20250707_171310",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step7_reload_20250707_171310\\screenshot_step7_reload_20250707_171310_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step7_reload_20250707_171310\\screenshot_step7_reload_20250707_171310_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step7_reload_20250707_171310\\screenshot_step7_reload_20250707_171310_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step7_reload_20250707_171310\\screenshot_step7_reload_20250707_171310_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step7_reload_20250707_171310\\screenshot_step7_reload_20250707_171310_comprehension.txt"
+    },
+    "task": "加入会员并购买。"
+  }
+]

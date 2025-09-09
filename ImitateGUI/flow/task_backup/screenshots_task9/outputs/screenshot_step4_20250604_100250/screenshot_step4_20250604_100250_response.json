@@ -1,0 +1,25 @@
+[
+    {
+        "id": "screenshot_step4_20250604_100250",
+        "image": {
+            "original_iamge": "screenshots\\outputs\\screenshot_step4_20250604_100250\\screenshot_step4_20250604_100250_original_img.jpg",
+            "som_image": "screenshots\\outputs\\screenshot_step4_20250604_100250\\screenshot_step4_20250604_100250_som_img.jpg",
+            "som_text": "screenshots\\outputs\\screenshot_step4_20250604_100250\\screenshot_step4_20250604_100250_tags_order.txt",
+            "som_tags": "screenshots\\outputs\\screenshot_step4_20250604_100250\\screenshot_step4_20250604_100250_tags_order_content.txt",
+            "comprehension": "screenshots\\outputs\\screenshot_step4_20250604_100250\\screenshot_step4_20250604_100250_comprehension.txt"
+        },
+        "task": "**task:** 点击购物车图标以查看购物内容。",
+        "response": {
+            "interaction_object": "component_interaction",
+            "interaction_type": "tap",
+            "interaction_parameter": {
+                "tag": "27",
+                "content": "a shopping cart icon."
+            },
+            "grounding": [
+                0.52053402364254,
+                0.9482042193412781
+            ]
+        }
+    }
+]

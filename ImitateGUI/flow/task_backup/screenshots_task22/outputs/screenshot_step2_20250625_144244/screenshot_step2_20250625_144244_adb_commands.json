@@ -1,0 +1,26 @@
+[
+  {
+    "id": "screenshot_step2_20250625_144244",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step2_20250625_144244\\screenshot_step2_20250625_144244_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step2_20250625_144244\\screenshot_step2_20250625_144244_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step2_20250625_144244\\screenshot_step2_20250625_144244_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step2_20250625_144244\\screenshot_step2_20250625_144244_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step2_20250625_144244\\screenshot_step2_20250625_144244_comprehension.txt"
+    },
+    "task": "立即支付￥228.00",
+    "response": {
+      "interaction_object": "component_interaction",
+      "interaction_type": "tap",
+      "interaction_parameter": {
+        "tag": "45",
+        "content": "1t228.00 "
+      },
+      "grounding": [
+        0.5006161564961076,
+        0.9596789181232452
+      ]
+    },
+    "adb_command_executed": "adb shell input tap 630 2687"
+  }
+]

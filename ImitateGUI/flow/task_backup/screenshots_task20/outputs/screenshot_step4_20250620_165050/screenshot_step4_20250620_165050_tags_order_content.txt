@@ -1,0 +1,68 @@
+icon 0: {'content': '16:50    '}
+icon 1: {'content': 'a profile or profile icon.'}
+icon 2: {'content': 'A numerical value or score.'}
+icon 3: {'content': 'a close or delete function.'}
+icon 4: {'content': 'Wi-Fi signal or internet connectivity.'}
+icon 5: {'content': 'a profile or icon.'}
+icon 6: {'content': 'a blank space or screen.'}
+icon 7: {'content': 'a push pin or arrow.'}
+icon 8: {'content': 'A symbol or symbol related to a user profile or account.'}
+icon 9: {'content': 'Red symbol for adding or creating something new.'}
+icon 10: {'content': 'a blank space or screen.'}
+icon 11: {'content': 'RFF v '}
+icon 12: {'content': 'the trash bin or delete function.'}
+icon 13: {'content': 'the symbol for adding a new item or element.'}
+icon 14: {'content': 'a text alignment tool.'}
+icon 15: {'content': 'a black arrow pointing downward.'}
+icon 16: {'content': 'a symbol or symbol related to Chinese characters.'}
+icon 17: {'content': 'Refresh or reload.'}
+icon 18: {'content': 'the symbol for "adding" or "adding".'}
+icon 19: {'content': 'a button for selecting or indicating an option.'}
+icon 20: {'content': 'a line or measurement tool.'}
+icon 21: {'content': 'adding a new item or creating something new.'}
+icon 22: {'content': 'A tool for changing text or a message.'}
+icon 23: {'content': 'a tool for changing or changing text.'}
+icon 24: {'content': 'A random file or document.'}
+icon 25: {'content': 'A message or message marker.'}
+icon 26: {'content': 'labubut '}
+icon 27: {'content': 'a music note or audio file.'}
+icon 28: {'content': 'A symbol or symbol related to Chinese characters.'}
+icon 29: {'content': 'A tool or tool for adding or creating a new item.'}
+icon 30: {'content': 'the symbol for a switch or element.'}
+icon 31: {'content': 'adding a new item or creating something new.'}
+icon 32: {'content': 'the "adding" function.'}
+icon 33: {'content': 'a single line or line icon.'}
+icon 34: {'content': 'A user profile or account.'}
+icon 35: {'content': 'a profile or profile view.'}
+icon 36: {'content': 'a line or form indicator.'}
+icon 37: {'content': '2'}
+icon 38: {'content': '3'}
+icon 39: {'content': '4'}
+icon 40: {'content': '5'}
+icon 41: {'content': '6'}
+icon 42: {'content': '7'}
+icon 43: {'content': '8'}
+icon 44: {'content': '9'}
+icon 45: {'content': 'Q'}
+icon 46: {'content': 'R'}
+icon 47: {'content': 'T'}
+icon 48: {'content': 'Y'}
+icon 49: {'content': 'U'}
+icon 50: {'content': 'P'}
+icon 51: {'content': '#'}
+icon 52: {'content': '%'}
+icon 53: {'content': 'A'}
+icon 54: {'content': 'D'}
+icon 55: {'content': 'F'}
+icon 56: {'content': 'G'}
+icon 57: {'content': 'H'}
+icon 58: {'content': 'J'}
+icon 59: {'content': 'K'}
+icon 60: {'content': 'B'}
+icon 61: {'content': 'N'}
+icon 62: {'content': 'M'}
+icon 63: {'content': 'a close or delete function.'}
+icon 64: {'content': '123'}
+icon 65: {'content': 'a line or symbol indicating a user profile or account.'}
+icon 66: {'content': 'Adding a new item or creating a new screen.'}
+icon 67: {'content': 'A symbol or logo related to a new file or document.'}

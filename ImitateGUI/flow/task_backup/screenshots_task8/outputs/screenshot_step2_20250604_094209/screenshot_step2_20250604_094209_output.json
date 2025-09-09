@@ -1,0 +1,13 @@
+[
+  {
+    "id": "screenshot_step2_20250604_094209",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step2_20250604_094209\\screenshot_step2_20250604_094209_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step2_20250604_094209\\screenshot_step2_20250604_094209_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step2_20250604_094209\\screenshot_step2_20250604_094209_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step2_20250604_094209\\screenshot_step2_20250604_094209_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step2_20250604_094209\\screenshot_step2_20250604_094209_comprehension.txt"
+    },
+    "task": "task: 点击礼物按钮发送礼物给主播。"
+  }
+]

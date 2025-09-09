@@ -1,0 +1,58 @@
+icon 0: {'content': 'a notification or alert.'}
+icon 1: {'content': 'a note or note-taking application.'}
+icon 2: {'content': 'a symbol or logo.'}
+icon 3: {'content': 'Refresh or reload.'}
+icon 4: {'content': 'a pin or pinning tool.'}
+icon 5: {'content': 'Wi-Fi signal indicator.'}
+icon 6: {'content': 'Close or delete function.'}
+icon 7: {'content': 'A line or number symbol indicating the number "10".'}
+icon 8: {'content': 'a push pin or push pin.'}
+icon 9: {'content': 'a switch or switch function.'}
+icon 10: {'content': 'Q '}
+icon 11: {'content': 'the "adding" function.'}
+icon 12: {'content': 'A note or note-taking application.'}
+icon 13: {'content': 'A bookmark or bookmark function.'}
+icon 14: {'content': 'A bookmark or bookmark function.'}
+icon 15: {'content': 'a loading or buffering indicator.'}
+icon 16: {'content': 'a user profile or account.'}
+icon 17: {'content': 'A symbol or symbol related to writing.'}
+icon 18: {'content': 'a line or rectangle.'}
+icon 19: {'content': 'the "Next" symbol.'}
+icon 20: {'content': 'A tool for changing or changing text.'}
+icon 21: {'content': 'the letter "x" or "the first letter "ex".'}
+icon 22: {'content': '/L44-52#K30 v '}
+icon 23: {'content': 'a loading or buffering indicator.'}
+icon 24: {'content': 'a bookmarking tool.'}
+icon 25: {'content': 'Red paint or paintbrush tool.'}
+icon 26: {'content': 'A symbol or symbol related to writing.'}
+icon 27: {'content': 'A text alignment tool.'}
+icon 28: {'content': '39.8 5'}
+icon 29: {'content': 'Red symbol or logo.'}
+icon 30: {'content': 'a loading or buffering indicator.'}
+icon 31: {'content': 'vitafusion5##x1'}
+icon 32: {'content': 'the letter "x".'}
+icon 33: {'content': 'Red marker or marking the number "10".'}
+icon 34: {'content': 'the symbol for marking or marking a specific item.'}
+icon 35: {'content': 'A tool or file.'}
+icon 36: {'content': 'a loading or buffering indicator.'}
+icon 37: {'content': 'A sticky note or note-taking application.'}
+icon 38: {'content': 'Adding a new item or creating a new document.'}
+icon 39: {'content': 'Red symbol or logo.'}
+icon 40: {'content': 'a loading or buffering indicator.'}
+icon 41: {'content': 'A tool or tool for adding or creating something new.'}
+icon 42: {'content': 'a close or delete function.'}
+icon 43: {'content': 'a thumbs up or like button.'}
+icon 44: {'content': 'a checkmark or mark indicating a task or confirmation.'}
+icon 45: {'content': 'a bucket with a handle for filling a container.'}
+icon 46: {'content': 'A text editor or tool tool.'}
+icon 47: {'content': 'A symbol or link related to a user interface or platform.'}
+icon 48: {'content': 'an oval shape.'}
+icon 49: {'content': '26.9'}
+icon 50: {'content': 'a line or line value.'}
+icon 51: {'content': 'Adding a new item or creating a new document.'}
+icon 52: {'content': 'a push pin or pinning function.'}
+icon 53: {'content': 'a loading or buffering indicator.'}
+icon 54: {'content': 'O it'}
+icon 55: {'content': 'adding a new item or element.'}
+icon 56: {'content': 'A symbol or symbol related to currency or currency.'}
+icon 57: {'content': 'a stop or close action.'}

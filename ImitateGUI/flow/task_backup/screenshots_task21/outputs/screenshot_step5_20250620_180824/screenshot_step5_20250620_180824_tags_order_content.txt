@@ -1,0 +1,47 @@
+icon 0: {'content': 'a pin or pinning function.'}
+icon 1: {'content': '18:08    '}
+icon 2: {'content': 'a profile or icon.'}
+icon 3: {'content': 'The number "K8" or the number "like" option.'}
+icon 4: {'content': 'a close or delete function.'}
+icon 5: {'content': 'Wi-Fi signal indicator.'}
+icon 6: {'content': 'a profile or icon.'}
+icon 7: {'content': 'a blank space or screen.'}
+icon 8: {'content': 'a push pin or pinning function.'}
+icon 9: {'content': 'A magnifying glass, typically used to search or magnify.'}
+icon 10: {'content': 'a line or bookmark function.'}
+icon 11: {'content': 'Refresh or reload.'}
+icon 12: {'content': 'a user profile or avatar.'}
+icon 13: {'content': 'a loading or buffering indicator.'}
+icon 14: {'content': 'N/A'}
+icon 15: {'content': 'a user profile or account.'}
+icon 16: {'content': '1/5 '}
+icon 17: {'content': 'Refresh or reload the page.'}
+icon 18: {'content': '4 '}
+icon 19: {'content': 'a bike or exercise symbol.'}
+icon 20: {'content': 'a bike or bicycle related function.'}
+icon 21: {'content': 'a bike or bicycle related function.'}
+icon 22: {'content': 'a bike or cycle-related function.'}
+icon 23: {'content': 'a "Next" or "Next function" function.'}
+icon 24: {'content': '4885'}
+icon 25: {'content': '#4883'}
+icon 26: {'content': '*#1002 '}
+icon 27: {'content': 'a red arrow or mark.'}
+icon 28: {'content': 'a push pin or arrow.'}
+icon 29: {'content': 'a push pin or random link.'}
+icon 30: {'content': 'Adding a new item or element.'}
+icon 31: {'content': 'A tool for adding a new item or file.'}
+icon 32: {'content': 'A symbol or symbol related to writing or marking.'}
+icon 33: {'content': 'A text input function.'}
+icon 34: {'content': 'a checkbox for filling up a section.'}
+icon 35: {'content': 'a "moving" or "moving "Next" function.'}
+icon 36: {'content': 'A button to delete or delete a message.'}
+icon 37: {'content': 'A symbol for a platform or platform related to flights or flights.'}
+icon 38: {'content': 'A symbol or symbol related to a platform or platform related to transportation or transportation.'}
+icon 39: {'content': 'A symbol or symbol related to Chinese characters.'}
+icon 40: {'content': 'Refresh or reload the page.'}
+icon 41: {'content': 'the "adding" or "adding a new item".'}
+icon 42: {'content': 'a blank space or screen.'}
+icon 43: {'content': 'a chat or comment feature.'}
+icon 44: {'content': '30 '}
+icon 45: {'content': 'A symbol or symbol related to Chinese characters.'}
+icon 46: {'content': '1^4883 '}

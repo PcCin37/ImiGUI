@@ -1,0 +1,26 @@
+[
+  {
+    "id": "screenshot_step6_reload_20250702_160456",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step6_reload_20250702_160456\\screenshot_step6_reload_20250702_160456_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step6_reload_20250702_160456\\screenshot_step6_reload_20250702_160456_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step6_reload_20250702_160456\\screenshot_step6_reload_20250702_160456_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step6_reload_20250702_160456\\screenshot_step6_reload_20250702_160456_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step6_reload_20250702_160456\\screenshot_step6_reload_20250702_160456_comprehension.txt"
+    },
+    "task": "点击“肯德基(城西银泰城·...)”。",
+    "response": {
+      "interaction_object": "component_interaction",
+      "interaction_type": "tap",
+      "interaction_parameter": {
+        "tag": "27",
+        "content": "肯德基(城西银泰城·..."
+      },
+      "grounding": [
+        0.5256948471069336,
+        0.25123100727796555
+      ]
+    },
+    "adb_command_executed": "adb shell input tap 662 703"
+  }
+]

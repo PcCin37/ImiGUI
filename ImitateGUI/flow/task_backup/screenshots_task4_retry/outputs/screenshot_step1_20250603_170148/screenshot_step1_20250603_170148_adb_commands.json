@@ -1,0 +1,26 @@
+[
+  {
+    "id": "screenshot_step1_20250603_170148",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step1_20250603_170148\\screenshot_step1_20250603_170148_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step1_20250603_170148\\screenshot_step1_20250603_170148_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step1_20250603_170148\\screenshot_step1_20250603_170148_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step1_20250603_170148\\screenshot_step1_20250603_170148_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step1_20250603_170148\\screenshot_step1_20250603_170148_comprehension.txt"
+    },
+    "task": "task: 点击商品区域标注为\"1元购买\"的按钮（标签25）。",
+    "response": {
+      "interaction_object": "component_interaction",
+      "interaction_type": "tap",
+      "interaction_parameter": {
+        "tag": "25",
+        "content": "A notification indicating one unread message."
+      },
+      "grounding": [
+        0.9068214595317841,
+        0.16592411696910858
+      ]
+    },
+    "adb_command_executed": "adb shell input tap 1124 459"
+  }
+]

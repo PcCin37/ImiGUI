@@ -1,0 +1,26 @@
+[
+  {
+    "id": "screenshot_step3_20250725_134336",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step3_20250725_134336\\screenshot_step3_20250725_134336_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step3_20250725_134336\\screenshot_step3_20250725_134336_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step3_20250725_134336\\screenshot_step3_20250725_134336_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step3_20250725_134336\\screenshot_step3_20250725_134336_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step3_20250725_134336\\screenshot_step3_20250725_134336_comprehension.txt"
+    },
+    "task": "点击\"搜索\"按钮进行搜索。",
+    "response": {
+      "interaction_object": "component_interaction",
+      "interaction_type": "tap",
+      "interaction_parameter": {
+        "tag": "13",
+        "content": "Red action to indicate an action or element."
+      },
+      "grounding": [
+        0.9072763323783875,
+        0.07618680782616138
+      ]
+    },
+    "adb_command_executed": "adb shell input tap 1143 213"
+  }
+]

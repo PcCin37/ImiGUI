@@ -1,0 +1,26 @@
+[
+  {
+    "id": "screenshot_step1_20250603_155734",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step1_20250603_155734\\screenshot_step1_20250603_155734_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step1_20250603_155734\\screenshot_step1_20250603_155734_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step1_20250603_155734\\screenshot_step1_20250603_155734_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step1_20250603_155734\\screenshot_step1_20250603_155734_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step1_20250603_155734\\screenshot_step1_20250603_155734_comprehension.txt"
+    },
+    "task": "task: 点击图标编号40的购物车按钮。",
+    "response": {
+      "interaction_object": "component_interaction",
+      "interaction_type": "tap",
+      "interaction_parameter": {
+        "tag": "30",
+        "content": "购物车"
+      },
+      "grounding": [
+        0.7866050601005554,
+        0.32257166504859924
+      ]
+    },
+    "adb_command_executed": "adb shell input tap 975 894"
+  }
+]

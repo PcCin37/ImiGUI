@@ -1,0 +1,12 @@
+{
+  "task_id": "task_20250814_171800",
+  "global_task": "进入团购频道，点击“酒店民宿”，点击入住时间进入日期选择界面，将时间调整为17号入住，20号离开，第一次点击为选择入住时间，第二次点击为选择离开时间，然后查询酒店，点击第一家酒店并查看评价。",
+  "app_name": "unknown_app",
+  "created_at": "2025-08-14T17:18:00.789427",
+  "status": "completed",
+  "completed_at": "2025-08-14T17:32:20.867352",
+  "is_successful": false,
+  "final_evaluation": null,
+  "experience_id": "Experience with source_task_id 'task_20250814_171800' already exists, skipping.",
+  "steps_executed": 9
+}

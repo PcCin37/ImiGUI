@@ -1,0 +1,30 @@
+{
+  "action_type": "scroll",
+  "parsed_action": {
+    "thought": "",
+    "action": "scroll",
+    "key": null,
+    "content": null,
+    "start_box": [
+      489,
+      317,
+      489,
+      317
+    ],
+    "end_box": null,
+    "direction": "up"
+  },
+  "coordinates": {
+    "start_abs": [
+      616,
+      887,
+      616,
+      887
+    ],
+    "end_abs": null
+  },
+  "commands": [
+    "adb -s 10ADB50U8A00193 shell input swipe 616 887 616 1387 300"
+  ],
+  "timestamp": "2025-09-04 20:34:45"
+}

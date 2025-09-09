@@ -1,0 +1,26 @@
+[
+  {
+    "id": "screenshot_step2_20250603_155249",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step2_20250603_155249\\screenshot_step2_20250603_155249_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step2_20250603_155249\\screenshot_step2_20250603_155249_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step2_20250603_155249\\screenshot_step2_20250603_155249_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step2_20250603_155249\\screenshot_step2_20250603_155249_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step2_20250603_155249\\screenshot_step2_20250603_155249_comprehension.txt"
+    },
+    "task": "task: 点击购物车按钮(标签28)。",
+    "response": {
+      "interaction_object": "component_interaction",
+      "interaction_type": "tap",
+      "interaction_parameter": {
+        "tag": "28",
+        "content": "A symbol or symbol related to writing or a message."
+      },
+      "grounding": [
+        0.7864560186862946,
+        0.3228664845228195
+      ]
+    },
+    "adb_command_executed": "adb shell input tap 975 894"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "screenshot_step9_20250620_181726",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step9_20250620_181726\\screenshot_step9_20250620_181726_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step9_20250620_181726\\screenshot_step9_20250620_181726_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step9_20250620_181726\\screenshot_step9_20250620_181726_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step9_20250620_181726\\screenshot_step9_20250620_181726_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step9_20250620_181726\\screenshot_step9_20250620_181726_comprehension.txt"
+    },
+    "task": "返回上一界面。",
+    "response": {
+      "interaction_object": "component_interaction",
+      "interaction_type": "tap",
+      "interaction_parameter": {
+        "tag": "6",
+        "content": "a push pin or move back."
+      },
+      "grounding": [
+        0.060372840613126755,
+        0.07329225912690163
+      ]
+    },
+    "adb_command_executed": "adb shell input tap 76 205"
+  }
+]

@@ -1,0 +1,39 @@
+icon 0: {'content': '13:48'}
+icon 1: {'content': 'a notification or alert.'}
+icon 2: {'content': 'A web browser or application.'}
+icon 3: {'content': 'Refresh or reload.'}
+icon 4: {'content': 'Refresh or reload the page.'}
+icon 5: {'content': 'a push pin or pinning function.'}
+icon 6: {'content': 'Wi-Fi signal orWi-fi connectivity.'}
+icon 7: {'content': 'a close or delete function.'}
+icon 8: {'content': 'A loading or buffering indicator.'}
+icon 9: {'content': 'A tool for adding a new item or element.'}
+icon 10: {'content': '339 399'}
+icon 11: {'content': 'A close or delete function.'}
+icon 12: {'content': 'a power button or switch.'}
+icon 13: {'content': 'Red writing or a message.'}
+icon 14: {'content': 'the symbol for "refresh" or "reflection" function.'}
+icon 15: {'content': 'a loading or buffering indicator.'}
+icon 16: {'content': 'A symbol or symbol indicating "Refresh or reload" or "Reflect" function.'}
+icon 17: {'content': 'BIRKENSTOCK'}
+icon 18: {'content': 'BIRKENSTOCK 129423 '}
+icon 19: {'content': 'BIRKENSTOCK 129421 '}
+icon 20: {'content': 'the symbol for writing or marking.'}
+icon 21: {'content': '35 '}
+icon 22: {'content': '36 '}
+icon 23: {'content': '37 '}
+icon 24: {'content': '38 '}
+icon 25: {'content': '39 '}
+icon 26: {'content': '40 '}
+icon 27: {'content': '41 '}
+icon 28: {'content': '42 '}
+icon 29: {'content': '43 '}
+icon 30: {'content': '44 '}
+icon 31: {'content': '45 '}
+icon 32: {'content': '46 '}
+icon 33: {'content': 'A symbol or symbol related to Japanese language.'}
+icon 34: {'content': 'a loading or buffering indicator.'}
+icon 35: {'content': '1 '}
+icon 36: {'content': '+ '}
+icon 37: {'content': 'a red folder or file.'}
+icon 38: {'content': 'a blank space or screen.'}

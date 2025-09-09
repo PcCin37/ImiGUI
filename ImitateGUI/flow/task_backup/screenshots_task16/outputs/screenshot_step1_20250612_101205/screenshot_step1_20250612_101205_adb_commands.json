@@ -1,0 +1,26 @@
+[
+  {
+    "id": "screenshot_step1_20250612_101205",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step1_20250612_101205\\screenshot_step1_20250612_101205_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step1_20250612_101205\\screenshot_step1_20250612_101205_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step1_20250612_101205\\screenshot_step1_20250612_101205_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step1_20250612_101205\\screenshot_step1_20250612_101205_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step1_20250612_101205\\screenshot_step1_20250612_101205_comprehension.txt"
+    },
+    "task": "task: 滑动顶部导航栏，找到标有“直播”标签的位置。",
+    "response": {
+      "interaction_object": "area_interaction",
+      "interaction_type": "swipe_left",
+      "interaction_parameter": {
+        "grounding": [
+          0.3364619314670563,
+          0.047885552048683167,
+          0.8572052717208862,
+          0.10656148195266724
+        ]
+      }
+    },
+    "adb_command_executed": "adb shell input swipe 467 214 1012 214 300"
+  }
+]

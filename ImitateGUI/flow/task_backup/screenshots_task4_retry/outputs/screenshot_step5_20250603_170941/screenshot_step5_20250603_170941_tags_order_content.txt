@@ -1,0 +1,30 @@
+icon 0: {'content': '17:09'}
+icon 1: {'content': 'A symbol or logo, possibly for a mobile app or service.'}
+icon 2: {'content': 'Refresh or reload the page.'}
+icon 3: {'content': 'A note or note-taking application.'}
+icon 4: {'content': 'A symbol or logo related to a messaging or social media application.'}
+icon 5: {'content': 'A profile or avatar.'}
+icon 6: {'content': 'Wi-Fi signal orWi-fi connectivity.'}
+icon 7: {'content': 'Close or delete function.'}
+icon 8: {'content': 'A number or date.'}
+icon 9: {'content': 'a pushpin or pushpin.'}
+icon 10: {'content': 'A symbol or symbol related to Japanese writing.'}
+icon 11: {'content': 'Adding a new item or creating a new document.'}
+icon 12: {'content': 'A checkmark indicating a task or confirmation.'}
+icon 13: {'content': 'adding a new item or element.'}
+icon 14: {'content': 'the "adding" function.'}
+icon 15: {'content': 'A tool for adding a new item or element.'}
+icon 16: {'content': 'A close or delete function.'}
+icon 17: {'content': 'CHINGVERY $F24-1-502'}
+icon 18: {'content': 'a push pin or pinning function.'}
+icon 19: {'content': 'a loading or buffering indicator.'}
+icon 20: {'content': 'a close or delete function.'}
+icon 21: {'content': '399 '}
+icon 22: {'content': '399 '}
+icon 23: {'content': 'A symbol or symbol related to writing or writing.'}
+icon 24: {'content': 'adding a new item or message.'}
+icon 25: {'content': 'a single line or an arrow.'}
+icon 26: {'content': 'the number 1.'}
+icon 27: {'content': 'a button to add or create a new item.'}
+icon 28: {'content': 'a blank space or screen.'}
+icon 29: {'content': 'A red folder or file.'}

@@ -1,0 +1,42 @@
+icon 0: {'content': '19:00'}
+icon 1: {'content': 'a video call or messaging application.'}
+icon 2: {'content': 'A web browser or application.'}
+icon 3: {'content': 'Refresh or reload the page.'}
+icon 4: {'content': 'A note or note-taking application.'}
+icon 5: {'content': 'a profile or icon.'}
+icon 6: {'content': 'Wi-Fi signal orWi-fi connectivity.'}
+icon 7: {'content': 'A close or delete function.'}
+icon 8: {'content': 'A number or date.'}
+icon 9: {'content': 'Q '}
+icon 10: {'content': 'A17'}
+icon 11: {'content': 'a tool for adding or creating a new item.'}
+icon 12: {'content': 'a tool for filling up a file.'}
+icon 13: {'content': 'A symbol or symbol related to a function or function.'}
+icon 14: {'content': 'a close or delete function.'}
+icon 15: {'content': 'A symbol or logo related to Japanese language.'}
+icon 16: {'content': 'adding a new item or creating something new.'}
+icon 17: {'content': 'a thumbs up or like button.'}
+icon 18: {'content': 'A writing tool or tool for writing.'}
+icon 19: {'content': 'a user profile or avatar.'}
+icon 20: {'content': 'a user profile or avatar.'}
+icon 21: {'content': 'Cancel or delete function.'}
+icon 22: {'content': 'a symbol or symbol related to a heart.'}
+icon 23: {'content': 'RFF162 v '}
+icon 24: {'content': 'a zoomed in or close view of a user profile.'}
+icon 25: {'content': 'a user profile or avatar.'}
+icon 26: {'content': 'a user profile or avatar.'}
+icon 27: {'content': '05-31  '}
+icon 28: {'content': 'a symbol or symbol related to a user interface or account.'}
+icon 29: {'content': ' 2355'}
+icon 30: {'content': 'a symbol or symbol related to a user interface or account.'}
+icon 31: {'content': 'RFF15 v '}
+icon 32: {'content': 'N/A'}
+icon 33: {'content': 'wan'}
+icon 34: {'content': 'A tool or tool for adding or adding something.'}
+icon 35: {'content': 'a line or line indicator.'}
+icon 36: {'content': 'Refresh or reload.'}
+icon 37: {'content': 'a blank space or screen.'}
+icon 38: {'content': 'a line or line icon.'}
+icon 39: {'content': '@ '}
+icon 40: {'content': 'a user profile or account.'}
+icon 41: {'content': 'a blank space or screen.'}

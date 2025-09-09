@@ -1,0 +1,25 @@
+[
+    {
+        "id": "screenshot_step1_20250725_133924",
+        "image": {
+            "original_iamge": "screenshots\\outputs\\screenshot_step1_20250725_133924\\screenshot_step1_20250725_133924_original_img.jpg",
+            "som_image": "screenshots\\outputs\\screenshot_step1_20250725_133924\\screenshot_step1_20250725_133924_som_img.jpg",
+            "som_text": "screenshots\\outputs\\screenshot_step1_20250725_133924\\screenshot_step1_20250725_133924_tags_order.txt",
+            "som_tags": "screenshots\\outputs\\screenshot_step1_20250725_133924\\screenshot_step1_20250725_133924_tags_order_content.txt",
+            "comprehension": "screenshots\\outputs\\screenshot_step1_20250725_133924\\screenshot_step1_20250725_133924_comprehension.txt"
+        },
+        "task": "点击搜索图标进入搜索功能。",
+        "response": {
+            "interaction_object": "component_interaction",
+            "interaction_type": "tap",
+            "interaction_parameter": {
+                "tag": "15",
+                "content": "A magnifying glass or magnifying tool."
+            },
+            "grounding": [
+                0.9255481064319611,
+                0.07457991689443588
+            ]
+        }
+    }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "screenshot_step1_20250725_135837",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step1_20250725_135837\\screenshot_step1_20250725_135837_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step1_20250725_135837\\screenshot_step1_20250725_135837_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step1_20250725_135837\\screenshot_step1_20250725_135837_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step1_20250725_135837\\screenshot_step1_20250725_135837_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step1_20250725_135837\\screenshot_step1_20250725_135837_comprehension.txt"
+    },
+    "task": "点击“商城”频道。",
+    "response": {
+      "interaction_object": "component_interaction",
+      "interaction_type": "tap",
+      "interaction_parameter": {
+        "tag": "18",
+        "content": "Adding a new item or creating something new."
+      },
+      "grounding": [
+        0.6663576662540436,
+        0.07598572224378586
+      ]
+    },
+    "adb_command_executed": "adb shell input tap 839 212"
+  }
+]

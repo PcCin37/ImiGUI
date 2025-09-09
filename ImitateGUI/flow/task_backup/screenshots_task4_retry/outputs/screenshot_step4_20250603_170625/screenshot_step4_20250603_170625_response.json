@@ -1,0 +1,25 @@
+[
+    {
+        "id": "screenshot_step4_20250603_170625",
+        "image": {
+            "original_iamge": "screenshots\\outputs\\screenshot_step4_20250603_170625\\screenshot_step4_20250603_170625_original_img.jpg",
+            "som_image": "screenshots\\outputs\\screenshot_step4_20250603_170625\\screenshot_step4_20250603_170625_som_img.jpg",
+            "som_text": "screenshots\\outputs\\screenshot_step4_20250603_170625\\screenshot_step4_20250603_170625_tags_order.txt",
+            "som_tags": "screenshots\\outputs\\screenshot_step4_20250603_170625\\screenshot_step4_20250603_170625_tags_order_content.txt",
+            "comprehension": "screenshots\\outputs\\screenshot_step4_20250603_170625\\screenshot_step4_20250603_170625_comprehension.txt"
+        },
+        "task": "task: 点击商品右侧的“领券抢购”按钮（标签33）。",
+        "response": {
+            "interaction_object": "component_interaction",
+            "interaction_type": "tap",
+            "interaction_parameter": {
+                "tag": "33",
+                "content": "a stop or close button."
+            },
+            "grounding": [
+                0.8426570892333984,
+                0.4994766116142273
+            ]
+        }
+    }
+]

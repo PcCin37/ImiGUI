@@ -1,0 +1,26 @@
+[
+  {
+    "id": "screenshot_step1_20250603_155100",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step1_20250603_155100\\screenshot_step1_20250603_155100_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step1_20250603_155100\\screenshot_step1_20250603_155100_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step1_20250603_155100\\screenshot_step1_20250603_155100_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step1_20250603_155100\\screenshot_step1_20250603_155100_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step1_20250603_155100\\screenshot_step1_20250603_155100_comprehension.txt"
+    },
+    "task": "**Task**: 点击购物车按钮(标签39)。",
+    "response": {
+      "interaction_object": "component_interaction",
+      "interaction_type": "tap",
+      "interaction_parameter": {
+        "tag": "39",
+        "content": "A thumbs up or like button."
+      },
+      "grounding": [
+        0.5210747420787811,
+        0.9473394155502319
+      ]
+    },
+    "adb_command_executed": "adb shell input tap 646 2626"
+  }
+]

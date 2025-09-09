@@ -1,0 +1,68 @@
+icon 0: {'content': 'the number "10" in a black background.'}
+icon 1: {'content': 'A checkmark indicating a task or confirmation.'}
+icon 2: {'content': 'A symbol or symbol related to a user profile or account.'}
+icon 3: {'content': 'a dropdown menu or option.'}
+icon 4: {'content': 'a web browser or application.'}
+icon 5: {'content': 'A generic or generic application or feature.'}
+icon 6: {'content': 'a blank space or screen.'}
+icon 7: {'content': 'A measurement or measurement tool, specifically the number 10.'}
+icon 8: {'content': 'A close or delete function.'}
+icon 9: {'content': 'a low profile or low-to-high signal.'}
+icon 10: {'content': 'A blank space or profile.'}
+icon 11: {'content': 'a blank screen or window.'}
+icon 12: {'content': '16.6FiFiE'}
+icon 13: {'content': 'A black symbol or element related to a function or function.'}
+icon 14: {'content': 'A close or delete function.'}
+icon 15: {'content': 'a single file.'}
+icon 16: {'content': '123'}
+icon 17: {'content': 'A fish-like object with a long, thin, pointy end.'}
+icon 18: {'content': 'a smiley face with an eye and a line.'}
+icon 19: {'content': 'a symbol or symbol related to a user interface or account.'}
+icon 20: {'content': 'a symbol or symbol related to a user interface or account.'}
+icon 21: {'content': 'a blank screen or window.'}
+icon 22: {'content': 'N/A'}
+icon 23: {'content': '99'}
+icon 24: {'content': 'a line or rectangle.'}
+icon 25: {'content': 'a line or form indicator.'}
+icon 26: {'content': 'a symbol or symbol indicating a number or item.'}
+icon 27: {'content': 'a symbol or symbol related to a heart.'}
+icon 28: {'content': 'a blank screen or window.'}
+icon 29: {'content': 'a person in a green shirt.'}
+icon 30: {'content': 'a bookmark or pinning function.'}
+icon 31: {'content': 'a sticky note or note-taking application.'}
+icon 32: {'content': 'a loading or buffering indicator.'}
+icon 33: {'content': 'a loading or buffering indicator.'}
+icon 34: {'content': 'Refresh or reload the page.'}
+icon 35: {'content': 'the letter "A".'}
+icon 36: {'content': '99'}
+icon 37: {'content': 'the symbol for walking or walking.'}
+icon 38: {'content': 'Adding a new item or element.'}
+icon 39: {'content': 'a line or line symbol.'}
+icon 40: {'content': 'O119 '}
+icon 41: {'content': 'a symbol or symbol related to a heart.'}
+icon 42: {'content': 'a blank screen or window.'}
+icon 43: {'content': 'N/A'}
+icon 44: {'content': 'the number "mark" or "Delete" function.'}
+icon 45: {'content': 'the "Next" function.'}
+icon 46: {'content': 'a blank screen or window.'}
+icon 47: {'content': '99 '}
+icon 48: {'content': 'A symbol or symbol related to a user interface or application.'}
+icon 49: {'content': 'the symbol for writing or marking.'}
+icon 50: {'content': 'O 82 '}
+icon 51: {'content': 'a symbol or symbol related to a user interface or account.'}
+icon 52: {'content': 'a blank screen or window.'}
+icon 53: {'content': 'a checkmark ormark.'}
+icon 54: {'content': 'the symbol for a walking or walking function.'}
+icon 55: {'content': 'A red marker indicating the number 9.'}
+icon 56: {'content': 'a line or a line icon.'}
+icon 57: {'content': '@ '}
+icon 58: {'content': 'A symbol or symbol related to walking or walking.'}
+icon 59: {'content': 'A thumbs up or like button.'}
+icon 60: {'content': 'A red flower with a green leaf.'}
+icon 61: {'content': 'A logo or message.'}
+icon 62: {'content': '666 '}
+icon 63: {'content': 'A symbol or logo related to a social media or application.'}
+icon 64: {'content': 'an email or messaging application.'}
+icon 65: {'content': 'a user profile or account.'}
+icon 66: {'content': 'a notification or message.'}
+icon 67: {'content': 'ADB Keyboard{ON}'}

@@ -1,0 +1,25 @@
+[
+    {
+        "id": "screenshot_step1_20250604_133052",
+        "image": {
+            "original_iamge": "screenshots\\outputs\\screenshot_step1_20250604_133052\\screenshot_step1_20250604_133052_original_img.jpg",
+            "som_image": "screenshots\\outputs\\screenshot_step1_20250604_133052\\screenshot_step1_20250604_133052_som_img.jpg",
+            "som_text": "screenshots\\outputs\\screenshot_step1_20250604_133052\\screenshot_step1_20250604_133052_tags_order.txt",
+            "som_tags": "screenshots\\outputs\\screenshot_step1_20250604_133052\\screenshot_step1_20250604_133052_tags_order_content.txt",
+            "comprehension": "screenshots\\outputs\\screenshot_step1_20250604_133052\\screenshot_step1_20250604_133052_comprehension.txt"
+        },
+        "task": "task: 添加商品到购物车。",
+        "response": {
+            "interaction_object": "component_interaction",
+            "interaction_type": "tap",
+            "interaction_parameter": {
+                "tag": "35",
+                "content": "A bookmark or note."
+            },
+            "grounding": [
+                0.5199378132820129,
+                0.9414262771606445
+            ]
+        }
+    }
+]

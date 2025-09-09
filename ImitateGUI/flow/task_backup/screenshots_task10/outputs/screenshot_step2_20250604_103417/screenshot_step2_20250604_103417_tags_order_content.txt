@@ -1,0 +1,36 @@
+icon 0: {'content': '10:34'}
+icon 1: {'content': 'a notification or alert.'}
+icon 2: {'content': 'A note or note-taking application.'}
+icon 3: {'content': 'A symbol or logo.'}
+icon 4: {'content': 'Refresh or reload.'}
+icon 5: {'content': 'A symbol or symbol related to a user profile or account.'}
+icon 6: {'content': 'Wi-Fi signal orWi-fi connectivity.'}
+icon 7: {'content': 'A close or delete function.'}
+icon 8: {'content': 'A number or date.'}
+icon 9: {'content': '1315t '}
+icon 10: {'content': 'a person holding a "peace" sign.'}
+icon 11: {'content': 'a cat with a black hair and a red nose.'}
+icon 12: {'content': 'a person wearing a red scarf.'}
+icon 13: {'content': 'A loading or buffering indicator with the number 1.'}
+icon 14: {'content': 'A close or delete function.'}
+icon 15: {'content': 'A file or file management system.'}
+icon 16: {'content': 'A close-up or option to change the file size.'}
+icon 17: {'content': 'a link to a document or file.'}
+icon 18: {'content': 'A bookmarking or bookmarking function.'}
+icon 19: {'content': 'A view or view of a building.'}
+icon 20: {'content': 'A tool for adding a new item or element.'}
+icon 21: {'content': 'Adding a new item or element.'}
+icon 22: {'content': 'A close-up view of a device.'}
+icon 23: {'content': 'A file or document.'}
+icon 24: {'content': 'A switch to a power line or switch.'}
+icon 25: {'content': 'A computer screen or monitor.'}
+icon 26: {'content': 'A navigation or navigation option.'}
+icon 27: {'content': 'A computer screen or monitor.'}
+icon 28: {'content': 'A navigation or navigation option.'}
+icon 29: {'content': 'A text input or audio file.'}
+icon 30: {'content': 'a music player with a new item.'}
+icon 31: {'content': 'a user profile or account.'}
+icon 32: {'content': 'a thumbs up or like button.'}
+icon 33: {'content': 'a notification or symbol related to a user profile or account.'}
+icon 34: {'content': 'A note-taking application.'}
+icon 35: {'content': 'a dark background with a white button in the center.'}

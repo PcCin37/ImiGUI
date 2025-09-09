@@ -1,0 +1,26 @@
+[
+  {
+    "id": "screenshot_step5_reload_20250620_160822",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step5_reload_20250620_160822\\screenshot_step5_reload_20250620_160822_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step5_reload_20250620_160822\\screenshot_step5_reload_20250620_160822_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step5_reload_20250620_160822\\screenshot_step5_reload_20250620_160822_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step5_reload_20250620_160822\\screenshot_step5_reload_20250620_160822_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step5_reload_20250620_160822\\screenshot_step5_reload_20250620_160822_comprehension.txt"
+    },
+    "task": "task: 点击筛选工具打开筛选条件界面。",
+    "response": {
+      "interaction_object": "component_interaction",
+      "interaction_type": "tap",
+      "interaction_parameter": {
+        "tag": "23",
+        "content": "a line or header indicating a connection or connection."
+      },
+      "grounding": [
+        0.9448083341121674,
+        0.24247222393751144
+      ]
+    },
+    "adb_command_executed": "adb shell input tap 1190 678"
+  }
+]

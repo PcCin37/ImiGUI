@@ -1,0 +1,60 @@
+icon 0: {'content': '15:56  O '}
+icon 1: {'content': 'a thumbs up or pointer.'}
+icon 2: {'content': 'N/A'}
+icon 3: {'content': 'N/A'}
+icon 4: {'content': 'Wi-Fi signal indicator.'}
+icon 5: {'content': 'a profile or icon.'}
+icon 6: {'content': 'a push pin or arrow.'}
+icon 7: {'content': 'a line or vertical line.'}
+icon 8: {'content': 'A symbol or symbol related to a user profile or account.'}
+icon 9: {'content': 'Red symbol for adding or creating something new.'}
+icon 10: {'content': 'the trash bin or delete function.'}
+icon 11: {'content': 'Adding a new item or element.'}
+icon 12: {'content': 'a loading or buffering indicator.'}
+icon 13: {'content': 'a symbol or symbol related to programming or programming.'}
+icon 14: {'content': 'Refresh or reload.'}
+icon 15: {'content': 'the symbol foradding or creating a new item.'}
+icon 16: {'content': 'the symbol for "adding" or "adding".'}
+icon 17: {'content': 'a user profile or account.'}
+icon 18: {'content': 'A tool for adding or adding a new item.'}
+icon 19: {'content': 'A tool or tool for adding a new item or element.'}
+icon 20: {'content': 'a text input tool or function.'}
+icon 21: {'content': 'A symbol or symbol related to walking or writing.'}
+icon 22: {'content': 'the symbol for adding a new item or element.'}
+icon 23: {'content': 'the symbol for walking or moving.'}
+icon 24: {'content': 'A symbol or logo related to a new tab or application.'}
+icon 25: {'content': 'A symbol or symbol related to Japanese characters.'}
+icon 26: {'content': 'a tool for filling areas with a line.'}
+icon 27: {'content': 'A symbol or symbol related to walking or walking.'}
+icon 28: {'content': 'Adding a new item or creating a new message.'}
+icon 29: {'content': 'A symbol or icon related to a medical or medical service.'}
+icon 30: {'content': 'Adding a new item or message.'}
+icon 31: {'content': 'A symbol or symbol related to Chinese characters.'}
+icon 32: {'content': 'a tool for changing or changing the width.'}
+icon 33: {'content': 'the symbol for changing characters.'}
+icon 34: {'content': 'adding or creating a new item.'}
+icon 35: {'content': 'A symbol or symbol related to walking or walking.'}
+icon 36: {'content': 'a text input function.'}
+icon 37: {'content': 'A symbol or icon related to a medical or medical service.'}
+icon 38: {'content': '1204.075'}
+icon 39: {'content': '1142.27 '}
+icon 40: {'content': '1113.575 3 '}
+icon 41: {'content': '4 '}
+icon 42: {'content': 'a symbol or symbol related to writing or writing.'}
+icon 43: {'content': 'the number "11" or "11".'}
+icon 44: {'content': '1106.1F'}
+icon 45: {'content': '5 '}
+icon 46: {'content': 'a black item that is not selected'}
+icon 47: {'content': '#1023.77'}
+icon 48: {'content': '6 '}
+icon 49: {'content': 'the letter "H" or "I" in a language marker.'}
+icon 50: {'content': 'the "t" function.'}
+icon 51: {'content': 'A symbol or icon related to a medical or medical service.'}
+icon 52: {'content': 'the number "10" or "Next" function.'}
+icon 53: {'content': '1023.67'}
+icon 54: {'content': 'the number 7.'}
+icon 55: {'content': 'a line or bar.'}
+icon 56: {'content': 'the "Insert" function.'}
+icon 57: {'content': 'a symbol or symbol, possibly a symbol for writing or marking.'}
+icon 58: {'content': '911.8'}
+icon 59: {'content': 'ADB Keyboard{ON} '}

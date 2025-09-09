@@ -1,0 +1,43 @@
+icon 0: {'content': '15:47'}
+icon 1: {'content': 'a notification or alert.'}
+icon 2: {'content': 'A note or note-taking application.'}
+icon 3: {'content': 'A symbol or logo related to a messaging or social media application.'}
+icon 4: {'content': 'A symbol or symbol related to a user profile or account.'}
+icon 5: {'content': 'Wi-Fi signal orWi-fi connectivity.'}
+icon 6: {'content': 'A close or delete function.'}
+icon 7: {'content': 'A loading or buffering indicator.'}
+icon 8: {'content': 'A tool for writing or editing.'}
+icon 9: {'content': 'a person with long black hair.'}
+icon 10: {'content': 'A user profile or avatar.'}
+icon 11: {'content': 'N/A'}
+icon 12: {'content': 'A loading or buffering indicator with the number "7".'}
+icon 13: {'content': 'a close or delete function.'}
+icon 14: {'content': '93 '}
+icon 15: {'content': 'A symbol or logo related to a function related to programming or programming.'}
+icon 16: {'content': 'A loading or buffering indicator.'}
+icon 17: {'content': 'a tool for filling areas with a line.'}
+icon 18: {'content': '01:46 '}
+icon 19: {'content': 'the symbol for "Refresh" or "Reflect" function.'}
+icon 20: {'content': 'the symbol for creating a new item or element.'}
+icon 21: {'content': 'the symbol for writing.'}
+icon 22: {'content': 'the symbol for a home or main menu.'}
+icon 23: {'content': 'the symbol for adding a new item or element.'}
+icon 24: {'content': 'the symbol for adding a new item or element.'}
+icon 25: {'content': '55 '}
+icon 26: {'content': 'A symbol for a person walking.'}
+icon 27: {'content': '0%'}
+icon 28: {'content': '0 137 '}
+icon 29: {'content': 'Refresh or reload.'}
+icon 30: {'content': 'Refresh or reload.'}
+icon 31: {'content': '15m'}
+icon 32: {'content': '4 '}
+icon 33: {'content': 'A file or document.'}
+icon 34: {'content': '3 '}
+icon 35: {'content': 'D14 '}
+icon 36: {'content': 'a stop or delete function.'}
+icon 37: {'content': '6 5718039292277*7 '}
+icon 38: {'content': 'a user profile or account.'}
+icon 39: {'content': 'A notification or alert.'}
+icon 40: {'content': 'a logo or logo related to a social media or social media application.'}
+icon 41: {'content': 'A bookmark or note.'}
+icon 42: {'content': 'A leaf or leaf-like symbol, typically used to indicate a user profile or account.'}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "screenshot_step2_20250603_154416",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step2_20250603_154416\\screenshot_step2_20250603_154416_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step2_20250603_154416\\screenshot_step2_20250603_154416_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step2_20250603_154416\\screenshot_step2_20250603_154416_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step2_20250603_154416\\screenshot_step2_20250603_154416_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step2_20250603_154416\\screenshot_step2_20250603_154416_comprehension.txt"
+    },
+    "task": "- Task: 点击标签9的“关注”按钮。",
+    "response": {
+      "interaction_object": "component_interaction",
+      "interaction_type": "tap",
+      "interaction_parameter": {
+        "tag": "9",
+        "content": "a symbol or symbol related to Chinese currency or a symbol."
+      },
+      "grounding": [
+        0.3949854373931885,
+        0.07346337847411633
+      ]
+    },
+    "adb_command_executed": "adb shell input tap 489 203"
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "action_type": "drag",
+  "parsed_action": {
+    "thought": "",
+    "action": "drag",
+    "key": null,
+    "content": null,
+    "start_box": [
+      722,
+      645,
+      722,
+      645
+    ],
+    "end_box": [
+      13,
+      642,
+      13,
+      642
+    ],
+    "direction": null
+  },
+  "coordinates": {
+    "start_abs": [
+      909,
+      1806,
+      909,
+      1806
+    ],
+    "end_abs": [
+      16,
+      1797,
+      16,
+      1797
+    ]
+  },
+  "commands": [
+    "adb -s 10ADB50U8A00193 shell input swipe 909 1806 16 1797 500"
+  ],
+  "timestamp": "2025-09-03 17:59:15"
+}

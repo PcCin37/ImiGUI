@@ -1,0 +1,26 @@
+[
+  {
+    "id": "screenshot_step4_20250725_141933",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step4_20250725_141933\\screenshot_step4_20250725_141933_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step4_20250725_141933\\screenshot_step4_20250725_141933_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step4_20250725_141933\\screenshot_step4_20250725_141933_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step4_20250725_141933\\screenshot_step4_20250725_141933_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step4_20250725_141933\\screenshot_step4_20250725_141933_comprehension.txt"
+    },
+    "task": "发送评论。",
+    "response": {
+      "interaction_object": "component_interaction",
+      "interaction_type": "tap",
+      "interaction_parameter": {
+        "tag": "58",
+        "content": "A symbol or symbol related to walking or walking."
+      },
+      "grounding": [
+        0.8944307863712311,
+        0.9122325778007507
+      ]
+    },
+    "adb_command_executed": "adb shell input tap 1126 2554"
+  }
+]

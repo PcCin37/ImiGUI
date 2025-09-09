@@ -1,0 +1,21 @@
+[
+  {
+    "id": "screenshot_step3_20250725_140258",
+    "image": {
+      "original_iamge": "screenshots\\outputs\\screenshot_step3_20250725_140258\\screenshot_step3_20250725_140258_original_img.jpg",
+      "som_image": "screenshots\\outputs\\screenshot_step3_20250725_140258\\screenshot_step3_20250725_140258_som_img.jpg",
+      "som_text": "screenshots\\outputs\\screenshot_step3_20250725_140258\\screenshot_step3_20250725_140258_tags_order.txt",
+      "som_tags": "screenshots\\outputs\\screenshot_step3_20250725_140258\\screenshot_step3_20250725_140258_tags_order_content.txt",
+      "comprehension": "screenshots\\outputs\\screenshot_step3_20250725_140258\\screenshot_step3_20250725_140258_comprehension.txt"
+    },
+    "task": "搜索“华莱士优惠套餐”。",
+    "response": {
+      "interaction_object": "area_interaction",
+      "interaction_type": "input_text",
+      "interaction_parameter": {
+        "text": "华莱士优惠套餐"
+      }
+    },
+    "adb_command_executed": "adb shell am broadcast -a ADB_INPUT_TEXT --es msg \"华莱士优惠套餐\""
+  }
+]
